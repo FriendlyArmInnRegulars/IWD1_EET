@@ -24,6 +24,9 @@ LANGUAGE ~Polski~
 LANGUAGE ~Simplified Chinese~
 	     ~zh_CN~
 	     ~iwd1_eet/lang/zh_CN/dialog.tra~
+LANGUAGE ~Japanese~
+	     ~ja_JP~
+	     ~iwd1_eet/lang/ja_JP/dialog.tra~
 
 
 BEGIN ~Special : Icewind Dale MOVIES IN Russian WITH Russian VOICES~ ~Not for the selected language
