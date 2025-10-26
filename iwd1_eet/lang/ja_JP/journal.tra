@@ -322,645 +322,645 @@
 @18313 = ~隠者
 
 カルダハール峠の入り口にある谷で、奇妙な隠者に出会った。彼は、イーストヘイヴンからの遠征隊の残りを全滅させ、我々も危うく殺しかけた雪崩を目撃したと主張した。彼は、やや気が進まない様子で、カルダハールの町は谷の東、古い風車の向こうにあると我々に教えてくれた。~
-@18314 = ~Priestess of Auril
+@18314 = ~オーリルの女司祭
 
-The spirit of Kresselack asked us to slay an Aurilite priestess whom he thinks intends to destroy his tomb.  We have agreed to find this priestess and deal with her but not necessarily slay her. In any case, Kresselack says that he senses her presence within the Vale of Shadows.  We should begin our search there.~
-@18315 = ~Lizard King
+クレッセラックの霊は、彼の墓を破壊するつもりだと思われるオーリルの女司祭を殺すよう我々に頼んだ。我々はこの女司祭を見つけて対処することに同意したが、必ずしも殺すとは限らない。いずれにせよ、クレッセラックは影の谷の中に彼女の存在を感じると言っている。そこから捜索を始めるべきだ。~
+@18315 = ~リザードキング
 
-We met the "Lizard King" of Dragon's Eye.  He informed us that the upper caves of the volcano belonged to him.  We tried to leave, but he quickly attacked us, claiming that his people need food.~
-@18316 = ~Mythal's enchantment
+竜の眼の「リザードキング」に出会った。彼は火山の上層の洞窟は自分のものだと告げた。我々は立ち去ろうとしたが、彼は自分の民が食料を必要としていると主張し、すぐに我々を攻撃してきた。~
+@18316 = ~ミサルの魔法
 
-Orrick, the mage in Kuldahar, mentioned that he was searching for the ruins of a lost elven outpost rumored to be located somewhere in the mountains near Kuldahar Pass.  He seemed particularly interested in obtaining any knowledge that pertains to an ancient elven enchantment called a mythal.~
-@18695 = ~Slaves of Ice Salamanders
+カルダハールの魔法使いオリックは、カルダハール峠近くの山のどこかにあると噂されている失われたエルフの前哨基地の遺跡を探していると言った。彼は特に、ミサルと呼ばれる古代エルフの魔法に関する知識を得ることに興味を持っているようだった。~
+@18695 = ~氷のサラマンダーの奴隷たち
 
-We asked Vera why there were dead bodies strewn about the museum.  She told us that the salamanders kept slaves and that the slaves had revolted.  The bodies were those of slaves that were killed in the revolt.~
-@18696 = ~Suspicious salamander
+我々はヴェラに、なぜ博物館に死体が散乱しているのか尋ねた。彼女は、サラマンダーたちが奴隷を飼っており、奴隷たちが反乱を起こしたと語った。死体は反乱で殺された奴隷たちのものだった。~
+@18696 = ~疑い深いサラマンダー
 
-We warned Vera that one of the salamanders has heard her moving about.  She thanked us for the warning and says she will take precautions to not be heard again.~
-@18698 = ~Vera
+我々はヴェラに、サラマンダーの一匹が彼女の動きを聞きつけたと警告した。彼女は警告に感謝し、もう聞かれないよう用心すると言った。~
+@18698 = ~ヴェラ
 
-We told Vera that the slaves were free and had escaped to the surface.  She was relieved to hear the news and has escaped the museum as well.  Apparently she would not leave until she knew the others were free.~
-@18699 = ~Helping Gareth
+我々はヴェラに、奴隷たちが自由になり地上に脱出したと伝えた。彼女はその知らせを聞いて安堵し、博物館からも脱出した。どうやら彼女は、他の者たちが自由になるまで立ち去らないつもりだったようだ。~
+@18699 = ~ガレスを助ける
 
-Vera, the slave leader, pretty much told us to go help Gareth and the other slaves. She then dismissed us.~
-@19284 = ~Find the slave leader
+奴隷のリーダーであるヴェラは、ガレスと他の奴隷たちを助けに行くよう我々に告げた。そして我々を退出させた。~
+@19284 = ~奴隷のリーダーを見つける
 
-Kerish, the frost salamander leader, has asked us to find the leader of the slave revolt and slay him.  We informed him that we would consider the matter.~
-@19286 = ~Free the slaves
+フロスト・サラマンダーのリーダー、ケリッシュが、奴隷反乱のリーダーを見つけて殺すよう我々に頼んだ。我々は検討すると彼に伝えた。~
+@19286 = ~奴隷たちを解放する
 
-We told Davin that the slave pen guard is dead.  We now need to go to the cave to the north of the pens and clear it of any dangers. ~
-@19364 = ~Ice Salamanders
+我々はダヴィンに、奴隷収容所の番兵が死んだと伝えた。今度は収容所の北にある洞窟に行き、危険を排除する必要がある。~
+@19364 = ~氷のサラマンダーたち
 
-It seems that the frost salamanders are sensitive to heat.  We may be able to use that weakness against them. ~
-@19552 = ~Lizard King
+どうやらフロスト・サラマンダーは熱に弱いようだ。我々はその弱点を利用できるかもしれない。~
+@19552 = ~リザードキング
 
-After killing the Lizard King, we encountered a little girl in front of a decline leading to a deeper level of Dragon's Eye.  She thanked us for killing the lizard men and told us that she was going to go home.~
-@20179 = ~Find the slave leader
+リザードキングを殺した後、竜の眼のより深い階層に続く下り坂の前で小さな女の子に出会った。彼女はリザードマンたちを殺してくれたことに感謝し、家に帰ると言った。~
+@20179 = ~奴隷のリーダーを見つける
 
-Kerish, the frost salamander leader, has asked us to find the leader of the slave revolt and slay him.  We agreed to do this.~
-@20214 = ~Sacrifice
+フロスト・サラマンダーのリーダー、ケリッシュが、奴隷反乱のリーダーを見つけて殺すよう我々に頼んだ。我々はこれに同意した。~
+@20214 = ~生贄
 
-We met a slave named Davin Berenson.  He told us that the frost giants are sacrificing the slaves to some creature here in the caverns.  We agreed that we have no desire to fight some unknown beast. ~
-@20256 = ~Sacrifice
+ダヴィン・ベレンソンという名の奴隷に出会った。彼は、フロスト・ジャイアントたちがこの洞窟のどこかにいる生物に奴隷たちを生贄に捧げていると語った。我々は正体不明の獣と戦う気はないことに同意した。~
+@20256 = ~生贄
 
-We met a slave named Davin Berenson.  He told us that the frost giants are sacrificing the slaves to some creature here in the caverns.  We have agreed to go and slay this beast, whatever it may be. ~
-@20452 = ~Priestess of Auril
+ダヴィン・ベレンソンという名の奴隷に出会った。彼は、フロスト・ジャイアントたちがこの洞窟のどこかにいる生物に奴隷たちを生贄に捧げていると語った。我々はこの獣が何であれ、それを殺しに行くことに同意した。~
+@20452 = ~オーリルの女司祭
 
-We met a woman named Kontik who claimed to be a follower of Auril.  She became irritated with us quickly and attacked for no reason.  We had to defend ourselves. ~
-@20469 = ~Find the slave leader
+オーリルの信奉者だと主張するコンティックという名の女性に出会った。彼女はすぐに我々に苛立ち、理由もなく攻撃してきた。我々は自衛せざるを得なかった。~
+@20469 = ~奴隷のリーダーを見つける
 
-We told Kerish that the slaves believe their leader to be dead.  He seemed satisfied with that. ~
-@20671 = ~Icewind Dale
+我々はケリッシュに、奴隷たちは自分たちのリーダーが死んだと信じていると伝えた。彼はそれで満足したようだった。~
+@20671 = ~アイスウィンド・デール
 
-Today our party arrived in the snowy, lakefront community known as Easthaven.  Weary and half-frozen from the road, we hastily made our way into the local tavern to find a hot meal and some friendly conversation.  Scarcely had we seated ourselves at a table by the hearth when we were approached by a burly warrior who called himself Hrothgar.  He seemed friendly enough, but something in his eyes warned us that he wasn't one to cross.  He politely asked us to come see him at his home, a couple doors west of the tavern, to discuss business of some sort.~
-@20867 = ~Escaped slaves
+今日、我々一行はイーストヘイヴンとして知られる雪深い湖畔の村に到着した。道中で疲れ果て半ば凍えていた我々は、温かい食事と友好的な会話を求めて急いで地元の酒場に向かった。暖炉のそばのテーブルに腰を下ろすとすぐに、自らをフロスガルと名乗るがっしりした戦士が近づいてきた。彼は十分友好的に見えたが、その目には敵に回すべきではない何かが宿っていた。彼は丁寧に、何らかの商売について話し合うために、酒場から西へ2軒先の彼の家に来てほしいと我々に頼んだ。~
+@20867 = ~逃亡した奴隷たち
 
-The slaves that escaped the frost salamanders fled to a room beneath the museum.  Kerish believes them to be trapped there with no means of escape and no supplies.  If this is the case then they will surely perish. ~
-@22928 = ~The Lost Caravan
+フロスト・サラマンダーから逃げた奴隷たちは、博物館の下の部屋に逃げ込んだ。ケリッシュは、彼らが逃げ道も補給もない状態でそこに閉じ込められていると考えている。もしそうなら、彼らは確実に滅びるだろう。~
+@22928 = ~失われたキャラバン
 
-Hrothgar asked us to find a missing caravan out of Caer-Dinival.  We told him that we had already come across the ambushed caravan and had tracked the marauding orc raiders back to their lair.  The stout warrior seemed somewhat worried about the orc attack, but was relieved to know that the supplies were still recoverable.~
-@22943 = ~Dorn's Deep
+フロスガルは、ケア・ディニヴァルから来た行方不明のキャラバンを探すよう我々に頼んだ。我々は、すでに襲撃されたキャラバンを発見し、略奪したオークの襲撃者たちをその巣まで追跡したと彼に伝えた。頑健な戦士は、オークの攻撃について幾分心配しているようだったが、補給品がまだ回収可能だと知って安堵した。~
+@22943 = ~ドーンズ・ディープ
 
-We defeated Terikan and restored the forge of Upper Dorn's Deep.  Norlinor thanked us, and he told us the key we would need to allow us to travel to Wyrm's Tooth Glacier lay in a receptacle in the forge.  ~
-@23341 = ~Girl with no tongue
+我々はテリカンを倒し、アッパー・ドーンズ・ディープの鍛冶場を復旧させた。ノーリノールは我々に感謝し、ワームズ・トゥース氷河への旅を可能にするために必要な鍵が、鍛冶場の容器の中にあると教えてくれた。~
+@23341 = ~舌のない少女
 
-Someone in a small palace in the northeastern section of Durdel Anatha cut Fengla's tongue out.  She showed us a symbol of a pickaxe on her wrist.  Perhaps that is the sign of her assailant. ~
-@23398 = ~Dunn Family
+デュルデル・アナサの北東部にある小さな宮殿で、誰かがフェングラの舌を切り取った。彼女は手首につるはしの印を見せてくれた。おそらくそれが襲撃者の印なのだろう。~
+@23398 = ~ダン一家
 
-We bedded the wife of the cooper, then told the cooper of it... it was a pleasurable experience to watch his expression crumble when we told him of his wife's bedroom skills. ~
-@23442 = ~Free the slaves
+我々は樽職人の妻と床を共にし、その後樽職人にそのことを告げた…我々が彼の妻の寝室での技術について語ったとき、彼の表情が崩れるのを見るのは愉快な経験だった。~
+@23442 = ~奴隷たちを解放する
 
-We told Davin that we cleared the cave north of the slave pens of any danger.  We now need to slay the guard and then the slaves will be free.~
-@23485 = ~Vexing Thoughts
+我々はダヴィンに、奴隷収容所の北にある洞窟の危険を排除したと伝えた。今度は番兵を殺せば、奴隷たちは自由になる。~
+@23485 = ~悩ましき思念
 
-We murdered an innocent for Vexing Thoughts and sealed our pact.  We now have the power to summon him once... and only... once. ~
-@23507 = ~Jonen's Dreams
+我々は悩ましき思念のために無実の者を殺害し、契約を封印した。我々は今、彼を一度だけ…そう、ただ一度だけ召喚する力を持っている。~
+@23507 = ~ジョネンの夢
 
-We encountered a strange blue-skinned woman upon the shores of Easthaven - she spoke in song, and she seemed pained that we couldn't understand her.  There must be something drawing her to Easthaven, but we know not what.~
-@23527 = ~Wylfdene and the Mirror
+イーストヘイヴンの岸辺で、奇妙な青い肌の女性に出会った。彼女は歌うように話し、我々が彼女を理解できないことに苦しんでいるようだった。何かが彼女をイーストヘイヴンに引き寄せているに違いないが、それが何なのかは分からない。~
+@23527 = ~ウィルフディーンと鏡
 
-We showed the mirror of black ice to Wylfdene, and it revealed him for the creature he truly is. ~
-@23533 = ~Seer of the Gloomfrost
+我々はウィルフディーンに黒氷の鏡を見せ、それは彼が真に何者であるかを明らかにした。~
+@23533 = ~グルームフロストの予言者
 
-We came upon the seer in the depths of the Gloomfrost.  She told us Wylfdene's corpse had been possessed by a beast with a "heart of winter." She told us to show the mirror of black ice we had used to gain entrance to her chamber to Wylfdene, and the creature inhabiting his body would reveal itself. ~
-@23534 = ~Ice Rose
+我々はグルームフロストの深部で予言者に出会った。彼女は、ウィルフディーンの死体が「冬の心臓」を持つ獣に憑依されたと語った。彼女は、我々が彼女の部屋への入り口を得るために使った黒氷の鏡をウィルフディーンに見せるよう告げた。そうすれば、彼の体に宿る生物が姿を現すだろうと。~
+@23534 = ~氷の薔薇
 
-Seeing Tiernon's skill in forging ice, we recalled Murdaugh's tale in Lonelywood and asked Tiernon to craft a rose of ice.  As he worked the ice, the rose seemed to grow beneath his hands, almost blossoming as he sculpted it.  The rose's beauty is breathtaking. ~
-@23535 = ~Free the slaves
+ティアノンの氷を鍛える技術を見て、我々はロンリーウッドでのマーダウの話を思い出し、ティアノンに氷の薔薇を作るよう頼んだ。彼が氷を加工すると、薔薇は彼の手の下で成長し、彼がそれを彫刻するにつれてほとんど開花するかのようだった。薔薇の美しさは息をのむほどだ。~
+@23535 = ~奴隷たちを解放する
 
-We told Davin that we cleared the cave north of the slave pens of any danger.  We also have slain the frost giant guarding the pens.  This opened the path to freedom for the slaves. ~
-@23536 = ~Restored Blade of Aihonen
+我々はダヴィンに、奴隷収容所の北にある洞窟の危険を排除したと伝えた。さらに収容所を守るフロスト・ジャイアントも殺した。これにより奴隷たちの自由への道が開かれた。~
+@23536 = ~修復されたアイホネンの刃
 
-We watched Tiernon "soothe" the Restored Blade of Aihonen.  Apparently, Tiernon knew Aihonen and even fashioned the blade he used to strike down Icasaracht.  He didn't seem willing to speak about the subject, though, so we left things at that. ~
-@23537 = ~Tiernon Denthelm
+我々はティアノンが修復されたアイホネンの刃を「なだめる」のを見た。どうやらティアノンはアイホネンを知っており、彼がイカサラクトを打ち倒すために使った刃さえも作ったらしい。しかし彼はその話題について話す気はないようだったので、我々はそのままにしておいた。~
+@23537 = ~ティアノン・デンセルム
 
-We came across the famed dwarven weaponsmith Tiernon Denthelm in a remote cave in the Gloomfrost.  Many tales are told about his weapons and armor, but every tale always concluded with his mysterious disappearance a few years ago.  With the knowledge that he's alive and well, the Hearthstone Clan in the Sunset Mountains should have one less worry on their shoulders. ~
-@23538 = ~Tiernon Denthelm
+我々はグルームフロストの人里離れた洞窟で、名高いドワーフの武器鍛冶ティアノン・デンセルムに出会った。彼の武器と鎧については多くの物語が語られているが、すべての物語は常に数年前の彼の謎めいた失踪で終わっていた。彼が生きて元気であるという知識により、サンセット山脈のハースストーン一族は肩の荷を一つ下ろせるはずだ。~
+@23538 = ~ティアノン・デンセルム
 
-We came across the famed dwarven weaponsmith Tiernon Denthelm in a remote cave in the Gloomfrost.  Many tales are told about his weapons and armor, but every tale always concluded with his mysterious disappearance a few years ago.  With the knowledge that he's alive and well, our bard should be the envy of every tavern minstrel south of Icewind Dale. ~
-@23540 = ~Seer of the Gloomfrost
+我々はグルームフロストの人里離れた洞窟で、名高いドワーフの武器鍛冶ティアノン・デンセルムに出会った。彼の武器と鎧については多くの物語が語られているが、すべての物語は常に数年前の彼の謎めいた失踪で終わっていた。彼が生きて元気であるという知識により、我々の吟遊詩人はアイスウィンド・デール南部のすべての酒場の音楽家の羨望の的となるはずだ。~
+@23540 = ~グルームフロストの予言者
 
-We ran across a blind dwarf, Tiernon, in the Gloomfrost.  He told us that the Seer had hidden herself here to try and prevent us from finding her, for she fears we bring her death with us.  Tiernon gave us a mirror of black ice that he told us would allow us into the Seer's chamber on the level below. ~
-@23543 = ~A weapon of ice
+我々はグルームフロストで盲目のドワーフ、ティアノンに出会った。彼は、予言者が我々に見つけられるのを防ぐためにここに身を隠したと語った。彼女は我々が死を連れてくることを恐れているのだ。ティアノンは我々に黒氷の鏡を渡し、それを使えば下の階の予言者の部屋に入れると教えてくれた。~
+@23543 = ~氷の武器
 
-We aided Tiernon in creating his life's work - a weapon of ice.  Apparently, the weapon has the power of the Gloomfrost... and us... in it. ~
-@23544 = ~Vexing Thoughts
+我々はティアノンが彼の生涯の仕事である氷の武器を作るのを手伝った。どうやら、この武器にはグルームフロストの力が…そして我々の力が…込められているらしい。~
+@23544 = ~悩ましき思念
 
-Vexing Thoughts asked us to slay an innocent in return for his aid.~
-@23545 = ~Vexing Thoughts
+悩ましき思念は、彼の援助の見返りに無実の者を殺すよう我々に頼んだ。~
+@23545 = ~悩ましき思念
 
-We demanded Vexing Thoughts submit to our will, and he agreed. ~
-@23546 = ~Vexing Thoughts
+我々は悩ましき思念に我々の意志に従うよう要求し、彼は同意した。~
+@23546 = ~悩ましき思念
 
-We commanded Vexing Thoughts submit to our will by using his true name. ~
-@23547 = ~Vexing Thoughts
+我々は悩ましき思念の真の名を使って、我々の意志に従うよう命令した。~
+@23547 = ~悩ましき思念
 
-We encountered a glabrezu, Vexing Thoughts, that had taken the form of a suit of armor.  Its previous owner had demanded it take that form, but over the years, forgot Vexing Thoughts' true name, and the glabrezu tore him apart. ~
-@23548 = ~Kieran's Secret
+我々は、鎧の姿をとったグラブレズ、悩ましき思念に出会った。前の所有者がその姿をとるよう要求したが、何年も経つうちに悩ましき思念の真の名を忘れてしまい、グラブレズは彼を引き裂いた。~
+@23548 = ~キーランの秘密
 
-When we asked Kieran about the secret door behind the mirror in his bedroom, he broke down and explained he is an exile from a corrupt organization of wizards called the Hosttower of the Arcane.  In exchange for our silence, he gave us access to some of the rare and magical devices he has gathered over the years. ~
-@23549 = ~Wylfdene and the spirit of Jerrod
+我々がキーランに寝室の鏡の後ろにある秘密の扉について尋ねると、彼は打ち明け、「秘術の館」と呼ばれる腐敗した魔法使いの組織からの亡命者であることを説明した。我々の沈黙と引き換えに、彼は長年にわたって集めてきた希少で魔法的な装置のいくつかへのアクセスを我々に与えた。~
+@23549 = ~ウィルフディーンとジェロッドの霊
 
-We spoke with Angaar about Wylfdene.  It seems Wylfdene claims to be possessed by the spirit of Jerrod.  Angaar says Wylfdene was questioned by the tribal shaman and proved to have extensive knowledge of Jerrod's life.  Interesting. ~
-@23550 = ~Assassin
+我々はウィルフディーンについてアンガールと話した。ウィルフディーンはジェロッドの霊に憑依されていると主張しているらしい。アンガールによれば、ウィルフディーンは部族のシャーマンに尋問され、ジェロッドの人生についての広範な知識を持っていることが証明されたという。興味深い。~
+@23550 = ~暗殺者
 
-We spoke with Angaar about the assassin sent to kill Wylfdene.  Angaar doesn't seem convinced the man was an assassin.  The man admitted under torture that the council of the Ten-Towns had sent him and that the Lonelywood representative had paid him.  He died before he could say exactly what he had been paid to do, however. ~
-@23552 = ~Find the slave leader
+我々はウィルフディーンを殺すために送られた暗殺者についてアンガールと話した。アンガールはその男が暗殺者だったとは納得していないようだ。その男は拷問の下、十の町の評議会が彼を送り、ロンリーウッドの代表が彼に金を払ったことを認めた。しかし彼は、正確に何をするよう金を払われたのかを言う前に死んだ。~
+@23552 = ~奴隷のリーダーを見つける
 
-We told Kerish that Vera, the slave leader, is dead.  He believes his honor has been restored and offered us his gratitude. ~
-@23553 = ~Spirit of Icasaracht
+我々はケリッシュに、奴隷のリーダーであるヴェラが死んだと伝えた。彼は名誉が回復されたと信じ、我々に感謝の意を表した。~
+@23553 = ~イカサラクトの霊
 
-We spoke with Beornen of the Great Whale Tribe, and he told us what he knew of the spirit that had stolen Wylfdene's body.  Apparently, it is the spirit of a white dragon matriarch, Icasaracht, who was slain by a member of the Ten-Towns over Lac Dinneshere.  She is worshipped by a degenerate tribe called the tribe of the Great White Wyrm, who live upon an iceberg in the Sea of Moving Ice. ~
-@23555 = ~Emmerich and wolves
+我々は大鯨族のベオルネンと話し、彼はウィルフディーンの体を奪った霊について知っていることを語った。どうやらそれは、ラック・ディネシェール上空で十の町のメンバーによって殺された白龍の女族長イカサラクトの霊らしい。彼女は「大白竜の部族」と呼ばれる堕落した部族に崇拝されており、その部族は動く氷の海の氷山の上に住んでいる。~
+@23555 = ~エメリックと狼たち
 
-Doogal seems to think that the wolves that killed Dolan and Digby are linked to Emmerich.  Doogal claims Emmerich is somehow summoning these wolves that killed his two brothers. ~
-@23557 = ~Three brothers
+ドゥーガルは、ドランとディグビーを殺した狼たちがエメリックと関係があると考えているようだ。ドゥーガルは、エメリックが何らかの方法で彼の二人の兄弟を殺したこれらの狼を召喚していると主張している。~
+@23557 = ~三人兄弟
 
-We spoke with the last of the three brothers, Doogal.  He said his brother Dolan was killed by some animal, a wolf.  Doogal witnessed the attack and tried to save his brother, but he said his dagger had no effect on the beast. ~
-@23558 = ~Three brothers
+我々は三人兄弟の末弟ドゥーガルと話した。彼は兄のドランが何かの動物、狼に殺されたと言った。ドゥーガルは攻撃を目撃し、兄を救おうとしたが、彼の短剣はその獣には効果がなかったと言った。~
+@23558 = ~三人兄弟
 
-We spoke with one of the three brothers, Doogal.  He said his brother Digby was killed by some animal, most likely some bear. ~
-@23559 = ~Three brothers
+我々は三人兄弟の一人、ドゥーガルと話した。彼は兄のディグビーが何かの動物、おそらく熊に殺されたと言った。~
+@23559 = ~三人兄弟
 
-We spoke with one of the three brothers, Dolan.  He said his brother Digby was killed by some animal, either a wolf or a bear. ~
-@23560 = ~Barbarian Camp
+我々は三人兄弟の一人、ドランと話した。彼は兄弟のディグビーが何かの動物、狼か熊に殺されたと言った。~
+@23560 = ~野蛮人の野営地
 
-We met a wounded dwarven warrior named Roald in the Whistling Gallows Inn.  He told us the location of the barbarian camp, enough for us to find our way there. ~
-@23561 = ~Southerner stayed with Baldemar
+我々は口笛吹く絞首台亭で、ロアルドという名の負傷したドワーフの戦士に会った。彼は野蛮人の野営地の場所を教えてくれたので、そこへの道を見つけるには十分だった。~
+@23561 = ~バルデマールに滞在した南部人
 
-We were speaking to Tybald the cooper, and he told us that some Southerner stayed with Baldemar not long ago.  Apparently, the Southerner was a diplomat from the Ten-Towns sent to deal with the barbarians. ~
-@23562 = ~Dunn Family
+我々は樽職人のタイバルドと話していて、彼は南部人がつい最近バルデマールのところに滞在していたと語った。どうやらその南部人は、野蛮人と交渉するために十の町から派遣された外交官だったようだ。~
+@23562 = ~ダン一家
 
-We bedded Ambere in exchange for a promise to take her south when the snows lifted and the barbarians' threat is ended.~
-@23563 = ~Hailee Dunn
+我々は、雪が解けて野蛮人の脅威が終わったら彼女を南に連れて行くという約束と引き換えに、アンベアと床を共にした。~
+@23563 = ~ヘイリー・ダン
 
-We ran into Hailee's mother at the Whistling Gallows Inn, and she told us that Hailee had played a trick on us.  Hailee has no brother, and apparently, she enjoys telling newcomers to Lonelywood about her "brother trapped in the well" to send them off in a panic.  We should go back and have some words with Hailee about this.~
-@23781 = ~Dunn Family
+我々は口笛吹く絞首台亭でヘイリーの母親に出会い、彼女はヘイリーが我々にいたずらを仕掛けたと語った。ヘイリーには兄弟はおらず、どうやら彼女はロンリーウッドの新参者に「井戸に閉じ込められた兄弟」について話して、彼らを慌てさせて送り出すのを楽しんでいるらしい。我々はヘイリーのところに戻って、このことについて一言言うべきだ。~
+@23781 = ~ダン一家
 
-We convinced that drunken whore Ambere Dunn to leave Lonelywood.  Her family would be better off without her presence.~
-@24882 = ~Assassin
+我々は、酔っ払いの娼婦アンベア・ダンをロンリーウッドから立ち去らせることに成功した。彼女の家族は彼女がいない方が良いだろう。~
+@24882 = ~暗殺者
 
-You uncovered the truth about the assassination plot.~
-@25425 = ~One-eyed stranger
+あなたは暗殺陰謀の真相を暴いた。~
+@25425 = ~隻眼の見知らぬ人
 
-We met Arden Thurlow, the wife of Baldemar Thurlow.  During our conversation, she mentioned that a one-eyed stranger had stayed with them as a guest for the night.  Apparently, he arrived in town several nights ago to meet with Baldemar.  Arden said her husband and the one-eyed man spent the entire night in Baldemar's private study discussing business.~
-@25428 = ~Assassin
+我々はバルデマール・サーローの妻アーデン・サーローに会った。会話の中で、彼女は隻眼の見知らぬ人が一晩客として彼らのところに滞在したと述べた。どうやら彼は数晩前にバルデマールに会うために町に到着したらしい。アーデンによれば、夫と隻眼の男はバルデマールの私室で一晩中商売の話をしていたという。~
+@25428 = ~暗殺者
 
-We confronted Baldemar about the assassin Wylfdene claimed was sent by the Ten-Towns.  After some prodding, he finally admitted that there had indeed been a secret plot to kill the barbarian leader.  He claimed to have been coerced by other council members into participating in the dastardly scheme.  We gave him a brief lecture on the virtues of honesty and principle.  He seemed moved by our words and announced his intentions to report the incident to the council.~
-@25429 = ~White wolf in the Forest
+我々は、ウィルフディーンが十の町から送られたと主張した暗殺者についてバルデマールを問い詰めた。少し追及した後、彼はついに野蛮人のリーダーを殺す秘密の陰謀が実際にあったことを認めた。彼は他の評議会メンバーによって強制されてその卑劣な陰謀に参加したと主張した。我々は彼に誠実さと原則の美徳について短い講義をした。彼は我々の言葉に感動したようで、この事件を評議会に報告する意向を表明した。~
+@25429 = ~森の白狼
 
-We spoke with the fallen ranger, Emmerich Hawk.  He told us of his encounter in the forest with a great white wolf, and how he believes the Forest Father is punishing him for his shortcomings.  Apparently, he feels that his failure to stop the three brothers in town from over trapping has somehow angered the God of nature. ~
-@25430 = ~Barbarian Camp
+我々は、堕ちたレンジャー、エメリッヒ・ホークと話をした。彼は森で出会った大きな白い狼との遭遇について語り、森の父が自分の欠点に対して罰を与えていると信じていると語った。どうやら、町の三兄弟が過剰な罠猟をするのを止められなかったことが、自然の神を怒らせてしまったと感じているようだ。~
+@25430 = ~野蛮人の野営地
 
-Emmerich told us that there is a strong possibility that the barbarians have set up camp to the east of Lonelywood, in the rocky foothills of a place called Bremen's Run.  Based on his directions, we should be able to find our way there. ~
-@25431 = ~White wolf in the Forest
+エメリッヒは、野蛮人がロンリーウッドの東、ブレーメンズ・ランと呼ばれる場所の岩だらけの丘陵地に野営地を設営している可能性が高いと我々に告げた。彼の指示に基づけば、我々はそこへの道を見つけられるはずだ。~
+@25431 = ~森の白狼
 
-We spoke with Emmerich about Digby's untimely demise.  He seems to believe that Digby was killed by the same great white wolf that attacked him in the forest.~
-@25432 = ~Southerner stayed with Baldemar
+我々はエメリッヒと、ディグビーの不幸な死について話をした。彼はディグビーが森で自分を襲った大きな白い狼と同じ狼に殺されたと信じているようだ。~
+@25432 = ~バルデマールに滞在した南部人
 
-We had a conversation with Arden Thurlow, the wife of Baldemar Thurlow, and brought up the subject of the Ten-Towns representative that came to visit Baldemar.  Arden mentioned the man only stayed for one night and spoke only with Baldemar, so she has no idea what they discussed while he was here. ~
-@25829 = ~Enchanted blade
+我々はバルデマール・サーローの妻アーデン・サーローと会話し、バルデマールを訪ねてきた十の町の代表について話題にした。アーデンは、その男は一晩だけ滞在し、バルデマールとだけ話をしたので、彼がここにいる間に何を話し合ったのか全く分からないと述べた。~
+@25829 = ~魔法の刃
 
-Emmerich mentioned that Doogal was looking to buy an enchanted blade from Kieran.  It seems odd that an innkeeper would possess such an item.  When we asked Emmerich about it, he told us about some secret door behind a mirror in Kieran's bedroom.  He said we should ask Kieran about it.  He also said we should ask Kieran if he knows what Doogal is up to.  ~
-@25830 = ~Enchanted blade
+エメリッヒは、ドゥーガルがキーランから魔法の刃を買おうとしていると語った。宿屋の主人がそのようなものを所有しているのは奇妙に思えた。我々がエメリッヒにそれについて尋ねると、彼はキーランの寝室の鏡の後ろにある秘密の扉について話してくれた。彼は我々がキーランにそれについて尋ねるべきだと言った。また、ドゥーガルが何をしようとしているのかキーランが知っているか尋ねるべきだとも言った。~
+@25830 = ~魔法の刃
 
-Emmerich mentioned that Doogal was looking to buy an enchanted blade from Kieran.  He said we should head over to the Whistling Gallows and ask Kieran if he knows what Doogal is up to.~
-@25831 = ~Emmerich is Werewolf
+エメリッヒは、ドゥーガルがキーランから魔法の刃を買おうとしていると語った。彼は我々が口笛吹く絞首台亭に行って、ドゥーガルが何をしようとしているのかキーランが知っているか尋ねるべきだと言った。~
+@25831 = ~エメリッヒは狼人間
 
-We discovered that Emmerich was behind the murders in Lonelywood.  It turns out the wolf that attacked him in the forest was actually a werewolf, and that it passed its curse on to him when it bit him.  He was completely unaware of what he had become until we confronted him with the truth.  Despite his ignorance, he was still a murderer, and we had no other choice but to slay him for his crimes.~
-@25832 = ~Emmerich is Werewolf
+我々は、ロンリーウッドでの殺人事件の背後にエメリッヒがいることを発見した。森で彼を襲った狼は実際には狼人間であり、彼を噛んだときに呪いを彼に受け渡したことが判明した。彼は我々が真実を突きつけるまで、自分が何になったのか全く気づいていなかった。彼の無知にもかかわらず、彼はやはり殺人者であり、我々には彼の罪のために彼を殺す以外の選択肢はなかった。~
+@25832 = ~エメリッヒは狼人間
 
-We discovered that Emmerich was behind the murders in Lonelywood.  It turns out the wolf that attacked him in the forest was actually a werewolf, and that it passed its curse on to him when it bit him.  He was completely unaware of what he had become until we confronted him with the truth.  We decided to end his suffering by killing him on the spot.~
-@25833 = ~Emmerich is Werewolf
+我々は、ロンリーウッドでの殺人事件の背後にエメリッヒがいることを発見した。森で彼を襲った狼は実際には狼人間であり、彼を噛んだときに呪いを彼に受け渡したことが判明した。彼は我々が真実を突きつけるまで、自分が何になったのか全く気づいていなかった。我々は彼をその場で殺すことで彼の苦しみを終わらせることにした。~
+@25833 = ~エメリッヒは狼人間
 
-We discovered that Emmerich was behind the murders in Lonelywood.  It turns out the wolf that attacked him in the forest was actually a werewolf, and that it passed its curse on to him when it bit him.  He was completely unaware of what he had become until we confronted him with the truth.  We told him as long as he kept his distance from us, we really didn't care what kind of creature he had become.~
-@25834 = ~Emmerich is Werewolf
+我々は、ロンリーウッドでの殺人事件の背後にエメリッヒがいることを発見した。森で彼を襲った狼は実際には狼人間であり、彼を噛んだときに呪いを彼に受け渡したことが判明した。彼は我々が真実を突きつけるまで、自分が何になったのか全く気づいていなかった。我々は、彼が我々から距離を保つ限り、彼がどんな生き物になったかは本当にどうでもいいと彼に告げた。~
+@25834 = ~エメリッヒは狼人間
 
-We discovered that Emmerich was behind the murders in Lonelywood.  It turns out the wolf that attacked him in the forest was actually a werewolf, and that it passed its curse on to him when it bit him.  He was completely unaware of what he had become until we confronted him with the truth.  We told him that we would try to help find a way to remove his curse.  ~
-@25835 = ~Amulet for Emmerich
+我々は、ロンリーウッドでの殺人事件の背後にエメリッヒがいることを発見した。森で彼を襲った狼は実際には狼人間であり、彼を噛んだときに呪いを彼に受け渡したことが判明した。彼は我々が真実を突きつけるまで、自分が何になったのか全く気づいていなかった。我々は彼に、彼の呪いを取り除く方法を見つけるのを手伝おうと告げた。~
+@25835 = ~エメリッヒの護符
 
-We gave Emmerich the magic amulet that prevents him from changing into a werewolf.  Perhaps now Lonelywood will once again be a safe place at night.~
-@25836 = ~Heart of Winter
+我々はエメリッヒに、彼が狼人間に変身するのを防ぐ魔法の護符を与えた。おそらく今やロンリーウッドは再び夜に安全な場所となるだろう。~
+@25836 = ~冬の心臓
 
-We met some sort of barbarian shaman sheltering in one of the abandoned buildings in Kuldahar.  He introduced himself as Hjollder, shaman to the Tribe of the Bear.  He went on to explain that his people were on the brink of war with the Ten-Towns, and that visions had led him to believe that we could somehow prevent the conflict.  In any case, we agreed to accompany the shaman and aid him in any way we can.~
-@25837 = ~Heart of Winter
+我々はカルダハールの廃墟の建物の一つに避難していた野蛮人のシャーマンに会った。彼は自らをヨルダー、熊の部族のシャーマンだと名乗った。彼は自分の民が十の町との戦争の瀬戸際にあること、そして幻視が我々が何らかの形でその争いを防げると信じさせたと説明した。いずれにせよ、我々はシャーマンに同行し、できる限り彼を援助することに同意した。~
+@25837 = ~冬の心臓
 
-We met some sort of barbarian shaman sheltering in one of the abandoned buildings in Kuldahar.  He kept harping on about visions and such, pleading with us to help him and his people.  Perhaps the poor fellow had been out in the snow for too long.  In any case, we gave him the brush off and left him in peace.~
-@25838 = ~White wolf in the Forest
+我々はカルダハールの廃墟の建物の一つに避難していた野蛮人のシャーマンに会った。彼は幻視などについてしつこく語り続け、我々に彼と彼の民を助けてくれと懇願した。おそらくこの哀れな男は雪の中に長くいすぎたのだろう。いずれにせよ、我々は彼をあしらって、そのままにしておいた。~
+@25838 = ~森の白狼
 
-We questioned Emmerich about the recent animal attacks.  He is convinced that the wolf that attacked him in the forest is also responsible for the murders in town.~
-@26295 = ~The Exile of Hjollder
+我々はエメリッヒに最近の動物の襲撃について尋ねた。彼は森で自分を襲った狼が町での殺人事件の犯人でもあると確信している。~
+@26295 = ~ヨルダーの追放
 
-Despite the great lengths we've gone to rescue him from his banishment, Hjollder seems resigned to his fate.  Maybe the spirits of the Isle know something that might change his mind.~
-@26297 = ~Heart of Winter
+我々が彼を追放から救うために多大な努力をしたにもかかわらず、ヨルダーは自分の運命を受け入れているようだ。おそらく島の精霊たちは、彼の考えを変えるかもしれない何かを知っているのだろう。~
+@26297 = ~冬の心臓
 
-We agreed to accompany the barbarian shaman, Hjollder on a quest to prevent a war between his people and the Ten-Towns.  However, he seems to feel we are not ready for the task at hand.  He asked us to return when we've grown stronger.~
-@26298 = ~Barbarian Camp
+我々は、野蛮人のシャーマン、ヨルダーに同行し、彼の民と十の町との戦争を防ぐ探求に参加することに同意した。しかし、彼は我々がこの任務にまだ準備ができていないと感じているようだ。彼は我々がより強くなってから戻ってくるように頼んだ。~
+@26298 = ~野蛮人の野営地
 
-Before parting company, Hjollder instructed us to travel alone to the Great Mead Hall.  Once there, we must go before the council of his people and sue for peace.  He said the people of Lonelywood should know the way to the barbarian camp.~
-@26299 = ~Wylfdene's amulet
+別れる前に、ヨルダーは我々だけで大ミード・ホールへ向かうよう指示した。そこに着いたら、彼の民の評議会の前に出て、平和を求めなければならない。彼はロンリーウッドの人々が野蛮人の野営地への道を知っているはずだと言った。~
+@26299 = ~ワイルフディーンの護符
 
-We gave Hjollder the amulet we found in Wylfdene's tomb.  The defaced insignia coupled with the desecration of the tomb was proof enough to convince the shaman that the spirit inhabiting Wylfdene's body could not possibly be that of the barbarian hero, Jerrod.~
-@26300 = ~Find evidence
+我々はヨルダーに、ワイルフディーンの墓で見つけた護符を渡した。破損した紋章と墓の冒涜は、ワイルフディーンの体に宿る精霊が野蛮人の英雄ジェロッドのものではあり得ないとシャーマンを納得させるのに十分な証拠だった。~
+@26300 = ~証拠を見つける
 
-We spoke with Hjollder and told him what we had learned from the restless spirits of the Burial Isle.  Although he seemed convinced, he demanded we acquire further proof.  He suggested that we search the barrows for some tangible evidence of Wylfdene's corruption.~
-@26302 = ~Heart of Winter
+我々はヨルダーと話し、埋葬の島の安らぎのない精霊たちから学んだことを彼に告げた。彼は納得したようだったが、さらなる証拠を得るよう我々に要求した。彼はワイルフディーンの堕落の具体的な証拠を求めて、塚墓を探すよう提案した。~
+@26302 = ~冬の心臓
 
-Today we arrived at last in the town of Lonelywood.  We had hardly caught sight of the outlying buildings when we were approached by a large man clad in deerskins.  He introduced himself as Hjollder, shaman to the Tribe of the Bear.  He went on to explain that his people were on the brink of war with the Ten-Towns, and that visions had led him to believe that we could somehow prevent the conflict.  In any case, we agreed to accompany the shaman and aid him in any way we can.~
-@26321 = ~Seer of the Gloomfrost
+今日、我々はついにロンリーウッドの町に到着した。郊外の建物を目にするやいなや、鹿皮を着た大柄な男に近づかれた。彼は自らをヨルダー、熊の部族のシャーマンだと名乗った。彼は自分の民が十の町との戦争の瀬戸際にあること、そして幻視が我々が何らかの形でその争いを防げると信じさせたと説明した。いずれにせよ、我々はシャーマンに同行し、できる限り彼を援助することに同意した。~
+@26321 = ~グルームフロストの予言者
 
-In order to discover the true identity of the spirit inhabiting Wylfdene's body, Hjollder has asked us to seek out a tribal oracle known as the Gloomfrost Seer.  He marked the location of where to search for this seer on our map.  Once we have found her and learned the truth about Wylfdene, we are to return to the barbarian camp and demand an audience with the council.~
-@26323 = ~Enchanted blade
+ワイルフディーンの体に宿る精霊の正体を発見するために、ヨルダーは我々にグルームフロストの予言者として知られる部族の神託者を探すよう頼んだ。彼はこの予言者を探す場所を我々の地図に印をつけた。彼女を見つけてワイルフディーンについての真実を学んだら、野蛮人の野営地に戻り、評議会との謁見を要求することになっている。~
+@26323 = ~魔法の刃
 
-We spoke with Kieran and asked him if he knew why Doogal would be interested in acquiring an enchanted blade.  He mentioned that it may be possible that the wolf stalking the trappers may actually be a werewolf.  Such creatures are known to have resistances against non-magical weapons, which would explain Doogal's motives.~
-@26325 = ~Ice Rose
+我々はキーランと話し、ドゥーガルがなぜ魔法の刃を手に入れることに興味があるのか知っているか尋ねた。彼は、罠猟師たちをつけ狙っている狼が実際には狼人間である可能性があると述べた。そのような生き物は非魔法の武器に対して耐性を持つことで知られており、それがドゥーガルの動機を説明するだろう。~
+@26325 = ~氷の薔薇
 
-We spoke with the drunken bard, Murdaugh, over at the Whistling Gallows Inn.  He told us his rather lengthy tale about how he sought to win the hand of a princess by questing for a rose made of ice.  Sadly, as we learned from his tale, no such rose exists in the Realms.  Nevertheless, I suppose it couldn't hurt to keep an eye out for one during our travels.~
-@26326 = ~Ice Rose
+我々は口笛吹く絞首台亭で、酔っ払った吟遊詩人マーダーと話した。彼は、氷でできた薔薇を探求することで王女の手を勝ち取ろうとした、かなり長い物語を我々に語った。悲しいことに、彼の物語から学んだように、そのような薔薇はこの世界には存在しない。それでも、旅の間にそれを探し続けても損はないだろう。~
+@26326 = ~氷の薔薇
 
-We gave Murdaugh the ice rose we obtained from the blind dwarf, Tiernon.  As soon as he saw the rose, his eyes lit up, and he seemed like a man awaking from a dream.  We did not tell him how we came by the rose, for such details are best left to the fanciful imaginings of bards.~
-@26327 = ~Amulet for Emmerich
+我々はマーダーに、盲目のドワーフ、ティアノンから手に入れた氷の薔薇を渡した。薔薇を見るやいなや、彼の目は輝き、夢から目覚めた男のようだった。我々は薔薇をどうやって手に入れたかは彼に話さなかった。そのような詳細は、吟遊詩人の空想的な想像に委ねるのが最善だからだ。~
+@26327 = ~エメリッヒの護符
 
-Kieran gave us an amulet to give to Emmerich.  He said that it wouldn't cure his curse, but it would prevent him from shapeshifting and from passing the curse on to others.~
-@26329 = ~Return of Hjollder
+キーランは我々にエメリッヒに渡す護符をくれた。彼はそれが彼の呪いを治すことはないが、変身することや他者に呪いを伝えることを防ぐだろうと言った。~
+@26329 = ~ヨルダーの帰還
 
-Hjollder told us he was going to defy banishment and return to the barbarian camp in secret. The camp is well guarded and would be difficult, if not impossible, to enter. Perhaps he means to hide in the forest nearby. We should search for him there.~
-@26331 = ~Sea of Moving Ice
+ヨルダーは、追放に反抗し、秘密裏に野蛮人の野営地に戻るつもりだと我々に告げた。野営地は厳重に警備されており、入るのは困難、いや不可能に近いだろう。おそらく彼は近くの森に隠れるつもりなのだろう。我々はそこで彼を探すべきだ。~
+@26331 = ~動く氷の海
 
-By exposing Wylfdene before the council, we've succeeded in stopping the war between the barbarians and the Ten-Towns.  However, it seems our quest is far from over.  Hjollder believes that the corrupt spirit that fled Wylfdene's body may still pose a threat to his people.  We've agreed to journey by ship to an island on the Sea of Moving Ice.  Once there, we are to hunt down the flown spirit and put an end to its evil once and for all.~
-@26333 = ~Mirror of the Seer
+評議会の前でワイルフディーンを暴露することで、我々は野蛮人と十の町の間の戦争を止めることに成功した。しかし、我々の探求はまだ終わっていないようだ。ヨルダーは、ワイルフディーンの体から逃げ出した堕落した精霊が、依然として彼の民に脅威を与える可能性があると信じている。我々は船で動く氷の海の島へ旅することに同意した。そこに着いたら、逃げた精霊を追い詰め、その悪を完全に終わらせることになっている。~
+@26333 = ~予言者の鏡
 
-We returned to the barbarian camp and told Hjollder about the mirror we obtained from the Gloomfrost Seer.  He instructed us to take the mirror to the Mead Hall and use its power to expose Wylfdene before the council.~
-@27047 = ~Trials of the Luremaster
+我々は野蛮人の野営地に戻り、グルームフロストの予言者から手に入れた鏡についてヨルダーに告げた。彼は我々にその鏡をミード・ホールに持って行き、その力を使って評議会の前でワイルフディーンを暴露するよう指示した。~
+@27047 = ~ルーアマスターの試練
 
-We met a jackal warrior in the catacombs named Rikasha.  He seemed genuinely friendly and answered any questions put to him.  ~
-@27071 = ~Trials of the Luremaster
+我々は地下墓地で、リカシャという名のジャッカルの戦士に会った。彼は本当に友好的に見え、我々が彼に投げかけたあらゆる質問に答えてくれた。~
+@27071 = ~ルーアマスターの試練
 
-We asked Rikasha about the halfling, Hobart.  He says that Hobart is a lackey of the Luremaster and not to be trusted.  ~
-@27077 = ~Trials of the Luremaster
+我々はリカシャに、ハーフリングのホバートについて尋ねた。彼はホバートがルーアマスターの手先であり、信用できないと言っている。~
+@27077 = ~ルーアマスターの試練
 
-We asked Rikasha about the Luremaster, but he had no useful information.  He would only say that the Luremaster is the absolute ruler here and that all other creatures were his slaves.  ~
-@27114 = ~Trials of the Luremaster
+我々はリカシャにルーアマスターについて尋ねたが、彼は有用な情報を持っていなかった。彼はルーアマスターがここの絶対的な支配者であり、他のすべての生き物は彼の奴隷だと言うことしかできなかった。~
+@27114 = ~ルーアマスターの試練
 
-We asked Rikasha if he knew of a way out of the catacombs.  He told us of a portal located within a temple on a lake here.  The portal opens into the keep above, most likely the inner sanctum.  Unfortunately, the Luremaster has disabled the portal by removing key components and scattering them throughout the catacombs.  We need to discover what these components are.  Rikasha believes a shaman of his people may posses this knowledge but would be unwilling to share it.  The shamans reside in a room with standing stones.  Perhaps we can find a clue to this puzzle there.  ~
-@27206 = ~Trials of the Luremaster
+我々はリカシャに、地下墓地から出る方法を知っているか尋ねた。彼はここの湖にある神殿内に位置するポータルについて我々に教えてくれた。そのポータルは上の砦へ、おそらく最奥の聖域へと開くという。残念ながら、ルーアマスターはポータルの重要な部品を取り外し、地下墓地全体に散らばらせることでポータルを無効化してしまった。我々はそれらの部品が何であるかを発見する必要がある。リカシャは、彼の民のシャーマンがこの知識を持っているかもしれないが、それを共有したがらないだろうと信じている。シャーマンたちは立石のある部屋に住んでいる。おそらく我々はそこでこの謎の手がかりを見つけられるだろう。~
+@27206 = ~ルーアマスターの試練
 
-We spoke with a strange spirit near the entrance to the castle keep.  The spirit informed us that there is but one way to leave these ruins alive.  Apparently, we must prove to him that we are worthy of bearing the mantle of heroes, whatever that means.  The only clue he was willing to offer was this riddle:
- 
-North, east, south, and west,
-In towers four the purgatives rest.
-Feed them where the spirits nest,
-Or forever here remain, our guest.
-The sun rises, the earth warms,
-Four men lie cold, yet no one mourns.
-"Leave them be!" the mad lord warns,
-and from my work their praise is shorn.
+我々は城の砦の入り口近くで奇妙な精霊と話した。精霊は、この廃墟から生きて出る方法はただ一つだけだと我々に告げた。どうやら我々は、英雄の外套を纏うに値することを彼に証明しなければならないらしい。それが何を意味するにせよ。彼が喜んで提供した唯一の手がかりはこの謎だった：
 
-He told us to return once the task is complete, and we would be admitted inside the castle's keep.
+北、東、南、そして西、
+四つの塔に浄化剤が眠る。
+精霊の巣に供えよ、
+さもなくば永遠にここに留まれ、我が客人よ。
+太陽が昇り、大地が温まる、
+四人の男が冷たく横たわる、だが誰も嘆かない。
+「彼らを放っておけ！」と狂った領主が警告する、
+そして私の仕事から、彼らの賞賛は奪われた。
+
+彼は、任務が完了したら戻ってくるように告げ、そうすれば我々は城の砦内に入ることが許されるだろうと言った。
 ~
-@27208 = ~Trials of the Luremaster
+@27208 = ~ルーアマスターの試練
 
-Upon entering the keep, we were visited once more by the haunting spirit called the Luremaster.  It would seem that he has some tale he wants to share with us, but, rather than just tell us straight out, he wants us to discover it for ourselves.  Again, the only clue he offered was a riddle.
+砦の中に入ると、我々は再びルーアマスターと呼ばれる不気味な精霊に訪問された。どうやら彼は我々と共有したい物語があるようだが、直接語る代わりに、我々自身でそれを発見させたいらしい。再び、彼が提供した唯一の手がかりは謎だった。
 
-To understand this shameful tale,
-Through princely guards you must prevail.
-'Neath unused arms and unstruck mail,
-Will you find the coffin's nail.
-'Round and 'round the sun does fly,
-And one man left below will die.
-His crime?  To make the peasant's eye
-Reflect his lord's ignoble lie.
+この恥ずべき物語を理解するには、
+王族の守護者たちを打ち破らねばならぬ。
+使われぬ武器と打たれぬ鎧の下に、
+汝は棺の釘を見つけるだろう。
+太陽の周りを回り続け、
+そして一人の男が下で死ぬだろう。
+彼の罪とは？ 農民の目に
+主の卑劣な嘘を映したこと。
 ~
-@27209 = ~Trials of the Luremaster
+@27209 = ~ルーアマスターの試練
 
-We encountered the Luremaster in the dungeons beneath the keep.  This time, his challenge was fairly straightforward: find a way out of the dungeon, or give up and die.  Perhaps his third riddle contains some clue that will help us discover a means of escape.
+我々は砦の下の地下牢でルーアマスターに遭遇した。今回、彼の挑戦はかなり単刀直入だった：地下牢から出る方法を見つけるか、諦めて死ぬか。おそらく彼の第三の謎には、我々が脱出手段を発見するのに役立つ手がかりが含まれているだろう。
 
-Your host was held unjustly while
-The lord so full of wrath and guile
-Demanded that this bard should style
-A tale to make his people smile.
-Suffer not your host's cruel doom,
-Use your time to flee his room.
-Shadowed dogs lurk in the gloom
-And weave escape upon their loom.
-If we chance to meet once more,
-Your host will have a gift in store.
-Defeat our shades in righteous war,
-And we will trouble you no more.
+汝の宿主は不当に囚われし間
+怒りと狡猾に満ちた領主は
+この吟遊詩人に様式を要求せり
+民を笑顔にする物語を。
+汝の宿主の残酷な運命に苦しむなかれ、
+汝の時を使い彼の部屋から逃げよ。
+影の犬が暗闇に潜み
+彼らの織機で脱出を織りなす。
+もし我々が再び会う機会があれば、
+汝の宿主は贈り物を用意しておこう。
+正義の戦いで我々の影を倒せ、
+そうすれば我々はもう汝を悩ませまい。
 ~
-@27214 = ~Trials of the Luremaster
+@27214 = ~ルーアマスターの試練
 
-We managed to force a startling confession out of that halfling codger, Hobart.  It seems that he's been in league with the Luremaster all along.  He claims that he was forced into serving the ghost, and that he must continually bring adventurers to the castle or the riddling spirit will make a ghost out of him.~
-@32002 = ~Dunn Family
+我々は、あのハーフリングの老いぼれホバートから驚くべき告白を引き出すことに成功した。どうやら彼はずっとルーアマスターと結託していたらしい。彼は幽霊に仕えることを強制され、冒険者たちを城に連れ続けなければ、謎かけの精霊が彼を幽霊にしてしまうと主張している。~
+@32002 = ~ダン一家
 
-We convinced Ambere Dunn to try to make the best of the situation she has with her family.~
-@34089 = ~Hailee Dunn
+我々はアンバー・ダンに、家族との状況を最善のものにするよう説得した。~
+@34089 = ~ヘイリー・ダン
 
-We finally convinced Hailee to stop wandering the town and go home.  If I need to speak to her again, I should be able to find her there.~
-@34091 = ~Hailee Dunn
+我々はついにヘイリーに町を徘徊するのをやめて家に帰るよう説得した。もし再び彼女と話す必要があれば、そこで彼女を見つけられるはずだ。~
+@34091 = ~ヘイリー・ダン
 
-In order to get a secret from Hailee, our bard improvised a story about a magical singing fish.  Not her best work, but we've come to expect that from her.~
-@34092 = ~Girl with no tongue
+ヘイリーから秘密を得るために、我々の吟遊詩人は魔法の歌う魚についての物語を即興で作った。彼女の最高の作品ではないが、我々は彼女からそういうものを期待するようになった。~
+@34092 = ~舌のない少女
 
-Fengla told us that she takes food to a watchtower in the southeastern area of Durdel Anatha.  The watchtower appears to be heavily fortified and is surrounded by cattle pens filled with deep gnome slaves. ~
-@34093 = ~Hailee Dunn
+フェングラは、ダーデル・アナサの南東地域にある監視塔に食事を運んでいると我々に語った。その監視塔は重厚に要塞化されており、ディープ・ノームの奴隷で満たされた家畜囲いに囲まれているようだ。~
+@34093 = ~ヘイリー・ダン
 
-In order to get a secret from Hailee, our bard improvised a story about a magical singing fish.  Not his best work, but we've come to expect that from him.  ~
-@34099 = ~Kieran's Secret
+ヘイリーから秘密を得るために、我々の吟遊詩人は魔法の歌う魚についての物語を即興で作った。彼の最高の作品ではないが、我々は彼からそういうものを期待するようになった。~
+@34099 = ~キーランの秘密
 
-Hailee told us there's a secret door in the Whistling Gallows Inn - it's hidden behind a mirror in Kieran's bedroom. ~
-@34105 = ~Hailee Dunn
+ヘイリーは、口笛吹く絞首台亭に秘密の扉があると我々に教えてくれた。それはキーランの寝室の鏡の後ろに隠されているという。~
+@34105 = ~ヘイリー・ダン
 
-It turned out that Hailee's tale about her brother in the well was a lie to trick us.  We confronted her on it, and told her she should go home... but to no avail. ~
-@34106 = ~Hailee Dunn
+ヘイリーの井戸に落ちた弟についての話は、我々を騙すための嘘だったことが判明した。我々は彼女を問い詰め、家に帰るべきだと告げたが、無駄だった。~
+@34106 = ~ヘイリー・ダン
 
-We encountered a little girl, Hailee Dunn, by the Lonelywood town well.  She tried to weave a tale of her brother having fallen down the well, but we saw through her lie like glass. ~
-@34107 = ~Hailee Dunn
+我々はロンリーウッドの町の井戸のそばで、ヘイリー・ダンという小さな女の子に出会った。彼女は弟が井戸に落ちたという話を紡ごうとしたが、我々はガラスのように透けて彼女の嘘を見抜いた。~
+@34107 = ~ヘイリー・ダン
 
-We encountered a little girl, Hailee Dunn, by the Lonelywood town well.  Her brother fell down the well while they were playing, and she begged us to fetch her father to get him out.~
-@34108 = ~Dunn Family
+我々はロンリーウッドの町の井戸のそばで、ヘイリー・ダンという小さな女の子に出会った。彼女の弟は遊んでいる最中に井戸に落ちてしまい、彼女は我々に父親を呼んで弟を助け出してほしいと懇願した。~
+@34108 = ~ダン一家
 
-We told Tybald we'd convinced Ambere to leave him... it was a pleasurable experience to watch his expression crumble when we told him. ~
-@34110 = ~Hailee Dunn
+我々はタイバルドに、アンバーに彼の元を去るよう説得したと告げた。彼に告げたとき、彼の表情が崩れるのを見るのは愉快な経験だった。~
+@34110 = ~ヘイリー・ダン
 
-We ran into Hailee's father, Tybald... he told us that Hailee had played a trick on us.  Hailee has no brother, and apparently, she enjoys telling newcomers to Lonelywood about her "brother trapped in the well" to send them off in a panic.  We should go back and have some words with Hailee about this. ~
-@34111 = ~Dunn Family
+我々はヘイリーの父親タイバルドに出くわした。彼は、ヘイリーが我々にいたずらを仕掛けたと語った。ヘイリーには弟はおらず、どうやら彼女はロンリーウッドの新参者に「井戸に閉じ込められた兄弟」について話して、彼らを慌てさせて送り出すのを楽しんでいるらしい。我々はヘイリーのところに戻って、このことについて一言言うべきだ。~
+@34111 = ~ダン一家
 
-We told Tybald what Quinn Silverfinger had told us about the opportunity for a cooper in Targos.  Tybald said he'd head there with his family after the barbarians have been dealt with. ~
-@34112 = ~Dunn Family
+我々はタイバルドに、クイン・シルバーフィンガーがターゴスでの樽職人の機会について語ったことを伝えた。タイバルドは、野蛮人の問題が解決した後、家族と一緒にそこへ向かうと言った。~
+@34112 = ~ダン一家
 
-We spoke to Quinn Silverfinger about Tybald's business, and Quinn recommended that Tybald try his fortunes south, in the city of Targos.  We should go tell Tybald of Quinn's advice when we get the chance. ~
-@34113 = ~Messenger from Kuldahar
+我々はクイン・シルバーフィンガーとタイバルドの事業について話し、クインはタイバルドが南のターゴスの街で運試しをするよう勧めた。機会があれば、クインの助言をタイバルドに伝えるべきだ。~
+@34113 = ~カルダハールからの使者
 
-Everard, the head priest of Tempus in Easthaven, confirmed there was a messenger from the northern town of Kuldahar that came to the Temple of Tempus and died shortly after his arrival.  Before his death, the messenger spoke of great disturbances in Kuldahar and asked the people of Easthaven for help. Apparently, Hrothgar is organizing an expedition to Kuldahar to investigate the matter. ~
-@34114 = ~Spirit in Wylfdene's body
+イーストヘイヴンのテンパス神殿の主任司祭エヴァラードは、北の町カルダハールからの使者がテンパス神殿に到着し、到着直後に死亡したことを確認した。死ぬ前に、使者はカルダハールでの大きな混乱について語り、イーストヘイヴンの人々に助けを求めた。どうやらフロスガルがこの件を調査するためにカルダハールへの遠征を組織しているらしい。~
+@34114 = ~ワイルフディーンの体に宿る精霊
 
-We spoke with the angry spirit of a sacrificed virgin named Mebdinga.  She was furious at us for "defiling" the Burial Isle and told us that the body of Wylfdene was inhabited by an evil spirit.  It was this evil spirit that tainted the Burial Isle. ~
-@34118 = ~Spirit in Wylfdene's body
+我々は、メブディンガという名の生贄にされた処女の怒れる精霊と話した。彼女は我々が埋葬の島を「汚した」ことに激怒し、ワイルフディーンの体には邪悪な精霊が宿っていると我々に告げた。埋葬の島を汚したのは、この邪悪な精霊だった。~
+@34118 = ~ワイルフディーンの体に宿る精霊
 
-We encountered the restless spirit of a barbarian shaman named Skaldar.  He informed us that we were not welcome on the island.  He also told us that one of their chieftains, likely Wylfdene, recently rose from the dead.  He believed that the body was possessed by a foreign spirit that left a black mark on the land.~
-@34119 = ~Boy, Fish and Monsters
+我々は、スカルダールという名の野蛮人のシャーマンの安らぎのない精霊に遭遇した。彼は我々がこの島では歓迎されないと告げた。また彼は、彼らの首領の一人、おそらくワイルフディーンが最近死者の中から蘇ったと語った。彼は、その体が異国の精霊に憑依されており、その精霊が土地に黒い痕跡を残したと信じていた。~
+@34119 = ~少年、魚、そしてモンスター
 
-We were able to help Damien out, and we gave him some fish to take to his father so he wouldn't get in trouble. ~
-@34144 = ~Boy, Fish and Monsters
+我々はダミアンを助けることができ、彼が困らないように父親に持って帰る魚を彼に渡した。~
+@34144 = ~少年、魚、そしてモンスター
 
-We ran into a boy named Damien near the bridge leading out of Easthaven.  He told us that a group of monsters had invaded his fishing hole and were eating the fish he had caught. ~
-@34168 = ~Marketh's ring
+我々はイーストヘイヴンから出る橋の近くで、ダミアンという名の少年に出くわした。彼は、モンスターの一団が彼の釣り場に侵入し、彼が釣った魚を食べていると我々に語った。~
+@34168 = ~マーケスの指輪
 
-In Durdel Anatha, we met a gem-cutter named Norl, who hates Marketh.  Marketh forces Norl to create jewelry for his concubine.~
-@34172 = ~The Lost Caravan
+ダーデル・アナサで、我々はマーケスを憎んでいるノルルという名の宝石職人に会った。マーケスはノルルに自分の愛妾のために宝飾品を作ることを強制している。~
+@34172 = ~失われた隊商
 
-We told Gaspar the Fishmonger about the lost caravan and showed him the contract from Ilmus Gallaway we'd found in the orc caves.  Once he knew the caravan had been lost, Gaspar set about re-negotiating a contract and insuring that a new caravan of supplies reaches Easthaven.  He thanked us for our trouble, and he paid us a small sum of gold. ~
-@34182 = ~The Lost Caravan
+我々は魚商人ガスパーに失われた隊商について告げ、オークの洞窟で見つけたイルムス・ギャラウェイの契約書を彼に見せた。隊商が失われたことを知ると、ガスパーは契約の再交渉を始め、新しい補給隊商がイーストヘイヴンに到着するよう手配した。彼は我々の労をねぎらい、少額の金貨を支払ってくれた。~
+@34182 = ~失われた隊商
 
-We met with Gaspar the Fishmonger in Easthaven.  He told us of a trade he'd arranged with a merchant in Caer-Dinival.  The caravan hasn't arrived yet, but it should be arriving any day now.  It sounds like the town really needs the supplies the caravan is bringing.~
-@34183 = ~The Lost Caravan
+我々はイーストヘイヴンで魚商人ガスパーと会った。彼はケア・ディニヴァルの商人と取り決めた取引について語った。隊商はまだ到着していないが、いつ到着してもおかしくないという。町がこの隊商が運んでくる補給品を本当に必要としているようだ。~
+@34183 = ~失われた隊商
 
-We met with Gaspar the Fishmonger in Easthaven.  He told us of a trade he'd arranged with a merchant in Caer-Dinival.  The caravan hasn't arrived yet, but it should be arriving any day now.  I wonder if it's the caravan that Hrothgar asked us to find. ~
-@34187 = ~Wine for Old Jed
+我々はイーストヘイヴンで魚商人ガスパーと会った。彼はケア・ディニヴァルの商人と取り決めた取引について語った。隊商はまだ到着していないが、いつ到着してもおかしくないという。これがフロスガルが我々に見つけるよう頼んだ隊商なのだろうか。~
+@34187 = ~老ジェドのためのワイン
 
-One of the local fishermen, Old Jed, asked us to fetch a bottle of wine from Pomab's Emporium, a store in the northeast part of town. ~
-@34188 = ~Return to Easthaven
+地元の漁師の一人、老ジェドは、町の北東にある店、ポマブの雑貨店からワインを一本取ってきてほしいと我々に頼んだ。~
+@34188 = ~イーストヘイヴンへ戻る
 
-We found Old Jed, drunk, in the cellar of the Winter's Cradle.  He told us that Everard and the other villagers had been captured by giants and were being held in a stockade south of the town, past the bridge.  As soon as we were done talking to him, he passed out. ~
-@34189 = ~Wine for Old Jed
+我々はウィンターズクレイドルの地下室で、酔っ払った老ジェドを見つけた。彼は、エヴァラードと他の村人たちが巨人に捕らえられ、町の南、橋の向こうにある柵の中に閉じ込められていると我々に告げた。我々が彼と話し終えた途端、彼は気を失った。~
+@34189 = ~老ジェドのためのワイン
 
-We convinced Old Jed, one of the local Easthaven fishermen, that he's caught in a self-destructive cycle of alcohol abuse. He should lay off the alcohol from now on... or at least drink a little less. ~
-@34194 = ~Wine for Old Jed
+我々は地元イーストヘイヴンの漁師の一人、老ジェドに、彼がアルコール依存の自己破壊的な悪循環に陥っていることを納得させた。彼は今後アルコールを控えるべきだ……あるいは少なくとも、もう少し飲む量を減らすべきだ。~
+@34194 = ~老ジェドのためのワイン
 
-We delivered a bottle of wine to Old Jed, one of the local Easthaven fishermen. ~
-@34198 = ~Find Sheemish, son of Conlan
+我々は地元イーストヘイヴンの漁師の一人、老ジェドにワインを一本届けた。~
+@34198 = ~コンランの息子シーミッシュを見つける
 
-We returned to check on Sheemish to make sure he got home all right.  He gave us a key to a chest in Conlan's house that contains some kind of enchanted hammer. ~
-@34201 = ~Find Sheemish, son of Conlan
+我々はシーミッシュが無事に家に帰り着いたか確かめるために戻った。彼は、コンランの家にある箱の鍵を我々にくれた。その箱には何らかの魔法の槌が入っているという。~
+@34201 = ~コンランの息子シーミッシュを見つける
 
-We freed Conlan's son, Sheemish from the depths of Dragon's Eye.  We should probably return to Kuldahar to check on him to make sure he got home all right. ~
-@34205 = ~Voice of Durdel Anatha
+我々はコンランの息子シーミッシュをドラゴンズアイの深部から解放した。彼が無事に家に帰り着いたか確かめるため、カルダハールに戻るべきだろう。~
+@34205 = ~ボイス・オブ・ダーデル・アナサ
 
-We returned to Kuldahar and spoke to Sister Calliana.  We told her of the Voice of Durdel Anatha and successfully returned his mortal remains to consecrated ground. ~
-@34207 = ~Suspicious salamander
+我々はカルダハールに戻り、シスター・カリアナと話した。我々は彼女にボイス・オブ・ダーデル・アナサのことを話し、彼の遺骸を聖別された土地に無事返還した。~
+@34207 = ~疑り深いサラマンダー
 
-We talked to the salamander that was hearing things down the hall.  We believe that it was Vera moving about that he was hearing.  We told him that there was nothing down the hall that he should concern himself with.  This satisfied him, so Vera should be safe.~
-@34211 = ~Suspicious salamander
+我々は廊下の先で何かの音を聞いているサラマンダーと話した。我々は、彼が聞いていたのはヴェラが動き回っている音だと考えた。我々は彼に、廊下の先には彼が気にする必要のあるものは何もないと告げた。これで彼は納得したので、ヴェラは安全だろう。~
+@34211 = ~疑り深いサラマンダー
 
-We talked to the salamander that was hearing things down the hall.  We told him that Vera was hiding down there and that she was more than likely what he heard.  He then killed her.~
-@34217 = ~Suspicious salamander
+我々は廊下の先で何かの音を聞いているサラマンダーと話した。我々は彼に、ヴェラがそこに隠れており、彼が聞いたのはおそらく彼女の音だと告げた。すると彼は彼女を殺してしまった。~
+@34217 = ~疑り深いサラマンダー
 
-We talked to a salamander that says he is hearing things down a certain hallway.  When he goes to check it out he finds nothing.  This sounds a bit strange so we offered to check it out ourselves.  Perhaps we will find something that he missed. ~
-@34218 = ~Compact with the crystal shard
+我々は、ある廊下で何かの音を聞いていると言うサラマンダーと話した。彼が確認しに行っても何も見つからないという。これは少し奇妙に思えたので、我々は自分たちで調べてみると申し出た。おそらく我々なら彼が見逃した何かを見つけられるだろう。~
+@34218 = ~クリスタルシャードとの契約
 
-To seal our compact with the crystal shard, we attacked Everard.  The lame fool was hardly a threat... I wonder why the shard wanted him dead? ~
-@34220 = ~Jerrod's Stone
+クリスタルシャードとの契約を固めるため、我々はエヴァラードを襲った。足の不自由な愚か者など脅威ですらなかった……なぜ欠片が彼の死を望んだのだろう？~
+@34220 = ~ジェロッド・ストーン
 
-Everard is going to try and dispel the glyphs that block the passageway to Jerrod's Stone beneath the temple.  He asked us to search the rest of the tower for another way in. ~
-@34231 = ~The Lost Caravan
+エヴァラードは、寺院の地下にあるジェロッド・ストーンへの通路を塞いでいる紋章を解呪しようとしている。彼は我々に、塔の他の場所で別の入り口を探すよう頼んだ。~
+@34231 = ~失われた隊商
 
-Hrothgar asked us to find a missing caravan out of Caer-Dinival.  We told him that we had already come across the ambushed caravan just outside of town.  The loss of the caravan and its vital supply cargo seemed to worry him, but he was grateful nonetheless.~
-@34232 = ~Huge Tower of Ice
+フロスガルは我々に、ケア・ディニヴァルから来た行方不明の隊商を見つけるよう頼んだ。我々は彼に、町の外で襲撃された隊商をすでに発見したと伝えた。隊商とその重要な補給品の損失は彼を心配させたようだが、それでも彼は感謝していた。~
+@34232 = ~巨大な氷の塔
 
-We found the high priest of Tempus, Everard, in the slave camp in destroyed Easthaven.  He provided the sign that will allow me to get inside the great ice tower. ~
-@34233 = ~Jerrod's Stone
+我々は破壊されたイーストヘイヴンの奴隷収容所で、テンパスの高位司祭エヴァラードを見つけた。彼は、巨大な氷の塔の中に入るために必要な印を我々に授けた。~
+@34233 = ~ジェロッド・ストーン
 
-We met with the local priest of Tempus, Everard, and we heard the tale of "Jerrod's Stone."  It tells the tale of a barbarian shaman that sacrificed himself to seal a demon's portal that lies buried beneath the temple.  Strangely enough, Everard seemed to have contempt for Jerrod and his sacrifice. ~
-@34234 = ~Sacrifice
+我々は地元のテンパスの司祭エヴァラードと会い、「ジェロッド・ストーン」の物語を聞いた。それは、寺院の地下に埋められた悪魔の門を封印するため自らを犠牲にしたバーバリアンのシャーマンの物語だった。奇妙なことに、エヴァラードはジェロッドとその犠牲を軽蔑しているようだった。~
+@34234 = ~犠牲
 
-We met a slave named Davin Berenson.  He told us that the frost giants are sacrificing the slaves to some creature here in the caverns.  Although we agree that we have no desire to fight some unknown beast, we are still considering the matter. ~
-@34235 = ~Rebuild the Arboretum
+我々はデイヴィン・ベレンソンという名の奴隷と出会った。彼は、フロストジャイアントがこの洞窟のどこかにいるクリーチャーに奴隷たちを生贄として捧げていると我々に話した。正体不明の獣と戦う気はないのだが、それでも我々はこの件を検討している。~
+@34235 = ~植物園の再建
 
-We spoke with an elven spirit, Valestis, in the Severed Hand.  He was standing within a ruined Arboretum, and he asked us to help him restore it to its former beauty.  He said if we came across any pure water, any small animals in need of a new home, or seeds that could flourish even in the ruined soil of the chamber's garden, he could use them to restore life to the arboretum.~
-@34236 = ~Larrell's Daughter
+我々はセヴァード・ハンドでヴァレスティスというエルフの精霊と話した。彼は廃墟と化した植物園の中に立っており、かつての美しさを取り戻すのを手伝ってほしいと我々に頼んだ。彼によれば、もし我々が純粋な水、新しい住処を必要としている小動物、あるいは部屋の庭の荒廃した土壌でも繁茂できる種を見つけたら、それらを使って植物園に命を取り戻せるという。~
+@34236 = ~ラレルの娘
 
-We gave Larrel the journal we found in Dorn's Deep.  In it, Evayne described the efforts she made to re-unify the elves and the dwarves.  She also detailed the fall of Dorn's Deep that lead to what truly happened in her last days. ~
-@34237 = ~Fall of the Severed Hand
+我々はドーンズ・ディープで見つけた日記をラレルに渡した。その中でエヴァインは、エルフとドワーフを再統合するために払った努力について述べていた。彼女はまた、ドーンズ・ディープの崩壊と、それが彼女の最期の日々に何が本当に起こったのかを明らかにするまでの経緯についても詳述していた。~
+@34237 = ~セヴァード・ハンドの陥落
 
-Larrel told us the sad tale of their darkest hour.  In it, he detailed the losing conflict with the dark horde, the desperate plan to use the Mythal, the aftermath of its failed attempt, Labelas' anger, and the punishment bestowed upon him.~
-@34238 = ~Heartstone Gem
+ラレルは彼らの最も暗い時間の悲しい物語を我々に語った。その中で彼は、闇の大群との敗北の戦い、ミサルを使うという絶望的な計画、その失敗の余波、ラベラスの怒り、そして彼に課せられた罰について詳しく述べた。~
+@34238 = ~ハートストーン・ジェム
 
-We gave the Heartstone Gem to Larrel, and he used its power to discover the location of the evil that plagues Kuldahar.  From what the Heartstone was able to divine, the threat lies deep within the dwarven fortress of Dorn's Deep. ~
-@34239 = ~The Kraken Society
+我々はハートストーン・ジェムをラレルに渡し、彼はその力を使ってカルダハールを苦しめている悪の所在を発見した。ハートストーンが占った結果によれば、脅威はドワーフの要塞ドーンズ・ディープの深部にあるという。~
+@34239 = ~クラーケン・ソサエティー
 
-I told Seth that I've done work for the Kraken Society.  I kept it pretty casual and nonchalant.  He wasn't entirely convinced, so he asked me a slew of questions about the Kraken and whom we were supposed to work and fight for.~
-@34240 = ~The Kraken Society
+私はセスに、クラーケン・ソサエティーのために働いたことがあると告げた。かなり気軽で無頓着な態度でいた。彼は完全には納得していなかったので、クラーケンについて、そして我々は誰のために働き誰と戦うべきなのかについて、大量の質問をしてきた。~
+@34240 = ~クラーケン・ソサエティー
 
-I told Seth that I've known the Kraken Society for years.  Apparently, he wasn't convinced.  He had a bunch of thugs jump me.~
-@34241 = ~Joril - Ruler of the Glacier
+私はセスに、クラーケン・ソサエティーとは何年も知り合いだと告げた。どうやら彼は納得しなかったようだ。彼は大勢のゴロツキに私を襲わせた。~
+@34241 = ~ジョリル - 氷河の支配者
 
-We asked Joril how he managed to slay his father Kreg.  Apparently he made a pact with some creatures he calls *wyrms* and had them perform the deed.  He pays them for their aid with sacrifices from the slave pens on a daily basis.~
-@34242 = ~Girl with no tongue
+我々はジョリルに、父親のクレッグをどうやって殺したのか尋ねた。どうやら彼は、ワイアームと呼ぶクリーチャーたちと契約を結び、彼らに殺させたようだ。彼は彼らの援助の代償として、毎日奴隷収容所から生贄を捧げている。~
+@34242 = ~舌のない少女
 
-We killed a group of archers in a watchtower who were keeping the deep gnome slaves in line.  Right after we finished, Fengla entered the tower, shook my hand, and then quickly departed. ~
-@34243 = ~Palace in Durdel Anatha
+我々は監視塔で、ディープノームの奴隷たちを監視していたアーチャーの一団を殺した。終えた直後、フェングラが塔に入ってきて、私の手を握り、すぐに去って行った。~
+@34243 = ~ダーデル・アナサの宮殿
 
-A halfling named Seth asked me for "papers" outside of a palace in Durdel Anatha.  When I told him that I didn't have any papers for him, he had a gang of hidden goons leap out and attack me.~
-@34244 = ~Palace in Durdel Anatha
+セスという名のハーフリングが、ダーデル・アナサの宮殿の外で私に「書類」を求めてきた。彼に渡す書類など持っていないと告げると、彼は隠れていたゴロツキの一団に飛び出させて私を襲わせた。~
+@34244 = ~ダーデル・アナサの宮殿
 
-A halfling named Seth asked me for "papers" outside of a palace in Durdel Anatha.  When I expressed my confusion, he asked me if someone in the "Kraken Society" had sent me.~
-@34245 = ~Voice of Durdel Anatha
+セスという名のハーフリングが、ダーデル・アナサの宮殿の外で私に「書類」を求めてきた。私が戸惑いを示すと、彼は「クラーケン・ソサエティー」の誰かが私を送ったのかと尋ねてきた。~
+@34245 = ~ボイス・オブ・ダーデル・アナサ
 
-We entered an area of Dorn's Deep called Durdel Anatha.  Standing in the doorway was an animated suit of armor that called itself "The Voice of Durdel Anatha."  It claimed that in life, it was a paladin of Torm.  It tried to find out what was causing conflict between the elves of the Hand of the Seldarine and the dwarves of Dorn's Deep.  It failed in its duty and wandered as a restless spirit for hundreds of years.  Recently, some priests of Ilmater bound his spirit into a suit of armor and now command him from afar.~
-@34246 = ~Gnome's Village
+我々はドーンズ・ディープのダーデル・アナサと呼ばれる地域に入った。入り口に立っていたのは、自らを「ボイス・オブ・ダーデル・アナサ」と名乗る魔法で動く鎧だった。それは生前、トームのパラディンだったと主張した。それはハンド・オブ・セルダラインのエルフとドーンズ・ディープのドワーフの間で起きている紛争の原因を突き止めようとした。だが任務に失敗し、数百年間、安らぎのない霊として彷徨った。最近、イルメイターの司祭たちが彼の霊を鎧に縛り付け、今では遠隔から彼を操っている。~
+@34246 = ~ノームの村
 
-Tarnelm told us that a village of his kind was somewhere nearby, but that it might be attacked at any time by packs of roaming umber hulks.  He told us how to get to the camp.  Apparently, all we have to do is walk to the northeast corner of the Oubliette.  Umber hulks should come looking for us.  From their tunnels, we can follow a path of light to the camp.~
-@34247 = ~Feed the Gnomes
+ターネルムは我々に、彼の同族の村が近くのどこかにあるが、徘徊するアンバーハルクの群れにいつ襲撃されてもおかしくないと告げた。彼はキャンプへの行き方を我々に教えてくれた。どうやら、オウブリエットの北東の角まで歩けばいいだけらしい。アンバーハルクたちが我々を探しに来るはずだ。彼らのトンネルから、光の道をたどればキャンプにたどり着けるという。~
+@34247 = ~ノームたちに食料を
 
-Tarnelm, a grumpy gnome in the Oubliette, asked us to go get some food for him and his dying brothers.  He seems unlikely to trust us unless we do something nice for him.~
-@34249 = ~King of the Dorn's Deep
+オウブリエットにいる不機嫌なノーム、ターネルムは、彼と彼の死にかけている兄弟たちのために食料を取りに行ってほしいと我々に頼んだ。我々が彼のために何か良いことをしてやらない限り、彼が我々を信頼することはなさそうだ。~
+@34249 = ~ドーンズ・ディープの王
 
-I met Marketh in a small palace in Lower Dorn's Deep.  He was a shifty man who fancied himself to be the new ruler of Dorn's Deep.~
-@34265 = ~Joril - Ruler of the Glacier
+私はドーンズ・ディープ下層の小さな宮殿でマルケスと会った。彼は自分をドーンズ・ディープの新しい支配者だと自負している、うさんくさい男だった。~
+@34265 = ~ジョリル - 氷河の支配者
 
-We have learned that Joril Frostbeard is the lieutenant of Wyrm's Tooth Glacier.  Apparently he took over the position by killing his father, Kreg.~
-@34266 = ~Marketh's ring
+我々は、ジョリル・フロストビアードがワイアームズ・トゥース氷河の副官であることを知った。どうやら彼は、父親のクレッグを殺してその地位を奪ったらしい。~
+@34266 = ~マルケスの指輪
 
-Norl finished the copy of Marketh's teleportation ring and gave it to us.  Before we left, he told me Callarduran would be with us. ~
-@34267 = ~Elven She-Warrior
+ノールはマルケスのテレポーテーション・リングの複製を完成させ、我々に渡した。我々が去る前に、彼はカラードゥランが我々と共にあると告げた。~
+@34267 = ~エルフの女戦士
 
-In the Great Forge, we met an elven warrior maiden named Ilmadia.  She claimed to be in control of the entire Great Forge region of Lower Dorn's Deep.  The small squad of fire giants around her supported the claim. ~
-@34269 = ~Gnome's Village
+グレート・フォージで、我々はイルマディアという名のエルフの女戦士と会った。彼女は、ドーンズ・ディープ下層のグレート・フォージ地域全体を支配していると主張した。彼女の周りにいる少数のファイアージャイアントの一団がその主張を裏付けていた。~
+@34269 = ~ノームの村
 
-The mines of Lower Dorn's Deep are home to a small population of deep gnomes.  Among them is a priest named Guello.  He warned us about the salamander guards nearby and claimed that he was captured by umber hulks to work in the mines.  He told us that he needed to return to his camp or many of his people would die. ~
-@34271 = ~Marketh's ring
+ロウアー・ドーンズ・ディープの鉱山には、少数のディープノームが住んでいる。その中にゲロという名の司祭がいた。彼は近くにいるサラマンダーの番兵について警告し、アンバーハルクに捕らえられて鉱山で働かされていたと主張した。彼は自分のキャンプに戻らなければ、多くの仲間が死んでしまうと語った。~
+@34271 = ~マーケスの指輪
 
-Marketh's concubine, Ginafae, has agreed to switch Marketh's ring of teleportation with a fake that I had Norl make.  She told us to come back in a day. ~
-@34276 = ~Girl with no tongue
+マーケスの愛人ジナファエは、マーケスのテレポーテーション・リングを、私がノールに作らせた偽物とすり替えることに同意した。彼女は1日後に戻ってくるよう告げた。~
+@34276 = ~舌のない少女
 
-We killed a group of archers in a watchtower who were keeping the deep gnome slaves in line.  Right after we finished, a small girl entered the tower, shook my hand, and then mysteriously departed.  Strange. ~
-@34277 = ~Girl with no tongue
+我々は、ディープノームの奴隷たちを監視していた監視塔のアーチャーの一団を殺した。戦闘が終わった直後、小さな少女が塔に入ってきて、私の手を握り、そして不思議なことに立ち去った。奇妙だ。~
+@34277 = ~舌のない少女
 
-We met a strange deep gnome girl today named Fengla.  She had her name branded into the skin on her arm and her tongue was cut out. ~
-@34281 = ~Sacrifice
+今日、我々はフェングラという名の奇妙なディープノームの少女に出会った。彼女の腕の皮膚には名前が焼き印されており、舌は切り取られていた。~
+@34281 = ~生贄
 
-We informed Davin Berenson that we have slain the creature known as Frostbite.  With the beast dead, the slaves need not fear being sacrificed any longer. ~
-@34287 = ~Free the slaves
+我々はダヴィン・ベレンソンに、フロストバイトとして知られる怪物を倒したことを伝えた。その獣が死んだ今、奴隷たちはもう生贄になることを恐れる必要はない。~
+@34287 = ~奴隷の解放
 
-We told Davin of Joril Frostbeard's death.  With his death the path to freedom for the slaves has been opened. ~
-@34290 = ~Sacrifice
+我々はダヴィンに、ジョリル・フロストビアードの死を伝えた。彼の死によって、奴隷たちの自由への道が開かれた。~
+@34290 = ~生贄
 
-The slave, Davin Berenson, told us of some creature that the frost giants are sacrificing slaves to.  This is a terrible fate that no one should have to suffer.~
-@34291 = ~Sacrifice
+奴隷のダヴィン・ベレンソンは、フロストジャイアントたちが奴隷を生贄にしている何らかの怪物について語った。これは誰も味わうべきでない恐ろしい運命だ。~
+@34291 = ~生贄
 
-We informed Davin Berenson that we have slain the creature known as Frostbite.  With the beast dead, the slaves need not fear being sacrificed any longer.~
-@34294 = ~Free the slaves
+我々はダヴィン・ベレンソンに、フロストバイトとして知られる怪物を倒したことを伝えた。その獣が死んだ今、奴隷たちはもう生贄になることを恐れる必要はない。~
+@34294 = ~奴隷の解放
 
-We met a slave named Davin.  He asked me to free him and the other slaves from the frost giants.  We have agreed to do so.~
-@34295 = ~Portrait of Marketh
+我々はダヴィンという名の奴隷に出会った。彼は私に、自分と他の奴隷たちをフロストジャイアントから解放してほしいと頼んだ。我々はそれを引き受けた。~
+@34295 = ~マーケスの肖像画
 
-A deep gnome sculptor named Callard gave us a portrait of Marketh.  He said that one of Marketh's bodyguards, Flozem, drew it.~
-@34296 = ~Revered Brother Poquelin
+カラードという名のディープノームの彫刻家が、マーケスの肖像画を渡してくれた。彼によると、マーケスのボディガードの一人であるフローゼムが描いたものだという。~
+@34296 = ~尊師ポクリン
 
-A fallen priest of Ilmater named Brother Perdiem told us about how he came under Revered Brother Poquelin's spell.  Apparently, Poquelin appeared at Perdiem's temple some time ago and hypnotized the entire congregation.  They left their monastery and moved north, many dying along the way.  Poquelin was able to covert an entire temple of devout Ilmaterian priests.  Who is he to be able to do such things?~
-@34299 = ~Revered Brother Poquelin
+堕落したイルメイターの司祭、ブラザー・パーディエムは、彼がどのように尊師ポクリンの呪文にかかったかを語った。どうやらポクリンは、しばらく前にパーディエムの寺院に現れ、信徒全員を催眠術にかけたらしい。彼らは修道院を去り北へ向かったが、多くが途中で死んだ。ポクリンは敬虔なイルメイター教の司祭たちの寺院全体を改宗させることができたのだ。そのようなことができるとは、彼は一体何者なのか？~
+@34299 = ~尊師ポクリン
 
-A fallen priest of Ilmater named Brother Perdiem told us about how he came under Revered Brother Poquelin's spell.  Apparently, Poquelin appeared at Perdiem's temple some time ago and hypnotized the entire congregation.  They left their monastery and moved north, many dying along the way.  Poquelin was able to covert an entire temple of devout Ilmaterian priests.  Who is he to be able to do such things?~
-@34300 = ~Vera
+堕落したイルメイターの司祭、ブラザー・パーディエムは、彼がどのように尊師ポクリンの呪文にかかったかを語った。どうやらポクリンは、しばらく前にパーディエムの寺院に現れ、信徒全員を催眠術にかけたらしい。彼らは修道院を去り北へ向かったが、多くが途中で死んだ。ポクリンは敬虔なイルメイター教の司祭たちの寺院全体を改宗させることができたのだ。そのようなことができるとは、彼は一体何者なのか？~
+@34300 = ~ヴェラ
 
-We found a woman named Vera hiding in the museum.  She will not tell us why she is in hiding.  She asked us not to mention having found her.~
-@34301 = ~Dwarven library
+我々は博物館に隠れているヴェラという名の女性を見つけた。彼女は、なぜ隠れているのかを教えてくれない。彼女は、彼女を見つけたことを誰にも言わないでほしいと頼んだ。~
+@34301 = ~ドワーフの図書館
 
-We talked to a scholar named Soth who has been studying the books in the Wyrm's Tooth library.  He says that they are works dedicated to dwarven engineering. ~
-@34302 = ~Priest of Ilmater
+我々は、ウィルムズ・トゥース図書館の本を研究しているソースという名の学者と話をした。彼によれば、それらはドワーフの工学に捧げられた著作だという。~
+@34302 = ~イルメイターの司祭
 
-In a temple of butchered people, we found a man named "Brother Perdiem," who claimed to be a priest of Ilmater.  He informed us that, should we try to wander around, he would make us suffer.~
-@34307 = ~Dwarven library
+虐殺された人々の寺院で、我々はイルメイターの司祭を名乗る「ブラザー・パーディエム」という男を見つけた。彼は、もし我々が歩き回ろうとすれば、苦しませると告げた。~
+@34307 = ~ドワーフの図書館
 
-We talked to a scholar named Soth.  He says that the Wyrm's Tooth buildings are a temple complex dedicated to Dugmaren Brightmane, the dwarven god of scholars and explorers. ~
-@34311 = ~Dwarven library
+我々は学者のソースと話をした。彼によれば、ウィルムズ・トゥースの建物群は、学者と探検家のドワーフの神ドゥグマレン・ブライトメインに捧げられた神殿複合体だという。~
+@34311 = ~ドワーフの図書館
 
-The scholar Soth gave us a book on dwarven engineering.  With it we hope to repair the rope bridge that spans the southwest chasm.~
-@34315 = ~Escaped slaves
+学者のソースが、ドワーフの工学に関する本を渡してくれた。それを使って、南西の谷間にかかるロープの橋を修理できることを願っている。~
+@34315 = ~逃亡した奴隷
 
-We told Kerish that the slaves are dead.  He offered us his gratitude.~
-@34324 = ~Badges
+我々はケリシュに、奴隷たちが死んだと伝えた。彼は感謝の意を示した。~
+@34324 = ~バッジ
 
-We talked to Joril Frostbeard and demanded his badge of office.  He was refused at first, demanding to know who sent us to collect it.  We were vague with our answer and lead him to believe that we were collecting it for some *higher authority.*~
-@34337 = ~Joril - Ruler of the Glacier
+我々はジョリル・フロストビアードと話し、彼の職務バッジを要求した。彼は最初は拒否し、誰が取りに行かせたのかを知りたがった。我々は曖昧な答えをし、ある「高位の権威」のために集めているのだと信じ込ませた。~
+@34337 = ~ジョリル - 氷河の支配者
 
-Wonderful.  Our paladin demanded that Joril Frostbeard free the slaves he held in captivity.  Naturally Joril became suspicious of our true identities and attacked us.  Oh, well. ~
-@34382 = ~Joril - Ruler of the Glacier
+素晴らしい。我々のパラディンが、ジョリル・フロストビアードに捕らわれている奴隷たちを解放するよう要求した。当然、ジョリルは我々の正体を疑い、攻撃してきた。ああ、仕方ない。~
+@34382 = ~ジョリル - 氷河の支配者
 
-We asked Joril how he managed to slay his father Kreg.  Apparently he made a pact with some creatures he calls *wyrms* and had them perform the deed.  He pays them for their aid with sacrifices from the slave pens on a daily basis.~
-@34383 = ~Joril - Ruler of the Glacier
+我々はジョリルに、どうやって父親のクレグを殺したのかを尋ねた。どうやら彼は「ワーム」と呼ぶ何らかのクリーチャーと契約を結び、それらに実行させたようだ。彼は奴隷小屋からの生贄を毎日提供することで、その援助の対価を払っている。~
+@34383 = ~ジョリル - 氷河の支配者
 
-Although we probably could have continued to reason with Joril to try and get his badge of office, we decided to fight him for it instead. ~
-@34384 = ~Joril - Ruler of the Glacier
+おそらくジョリルと話し合いを続けて職務バッジを得ることもできただろうが、我々は代わりに戦って奪うことに決めた。~
+@34384 = ~ジョリル - 氷河の支配者
 
-We decided to continue to reason with Joril to try and get his badge of office.  The plan worked, and it is now in our possession. ~
-@34385 = ~Joril - Ruler of the Glacier
+我々はジョリルと話し合いを続けて、職務バッジを得ることにした。計画はうまくいき、今では我々の手に入った。~
+@34385 = ~ジョリル - 氷河の支配者
 
-We talked to Joril Frostbeard and demanded his badge of office.  He refused at first, but then we decided to lead him to believe that we were collecting it for his *master.*~
-@34386 = ~Village defense
+我々はジョリル・フロストビアードと話し、彼の職務バッジを要求した。彼は最初は拒否したが、我々は彼の「主人」のために集めているのだと信じ込ませることにした。~
+@34386 = ~村の防衛
 
-Beorn asked us to help him protect the camp from an umber hulk attack and rescue the lost high priest of Callarduran, Guello. The man behind the umber hulk attack is a dark elf sorcerer named Malavon, who in turn works for Revered Brother Poquelin. Guello is believed to be held in Marketh's mines.~
-@34387 = ~Exit key
+ベオルンは、アンバーハルクの攻撃からキャンプを守り、行方不明のカラデュランの大司祭ゲロを救出する手伝いを我々に頼んだ。アンバーハルク攻撃の黒幕は、マラヴォンという名のダークエルフのソーサラーで、彼は尊師ポクリンのために働いている。ゲロはマーケスの鉱山に捕らえられていると考えられている。~
+@34387 = ~出口の鍵
 
-We gave Gareth the key that unlocks the door to the passage leading to the surface.  Now he and the other slaves can escape to safety.~
-@34391 = ~Exit key
+我々はガレスに、地表へ続く通路の扉を開ける鍵を渡した。今や彼と他の奴隷たちは、安全な場所へ逃げることができる。~
+@34391 = ~出口の鍵
 
-Gareth has asked us to retrieve a key, which will unlock the door to the passage leading to the surface.  He believes the key is the possession of the salamanders.  We informed him that we would think about this. ~
-@34399 = ~Exit key
+ガレスは、地表へ続く通路の扉を開ける鍵を取ってきてほしいと頼んだ。彼は、その鍵はサラマンダーたちが持っていると考えている。我々は、検討すると彼に伝えた。~
+@34399 = ~出口の鍵
 
-Gareth has asked us to retrieve a key, which will unlock the door to the passage leading to the surface.  He believes the key is the possession of the salamanders.  We told him we were not willing to fight a building full of frost salamanders for this key. ~
-@34407 = ~Exit key
+ガレスは、地表へ続く通路の扉を開ける鍵を取ってきてほしいと頼んだ。彼は、その鍵はサラマンダーたちが持っていると考えている。我々は、この鍵のためにフロストサラマンダーだらけの建物と戦うつもりはないと彼に伝えた。~
+@34407 = ~出口の鍵
 
-Gareth has asked us to retrieve a key.  The key unlocks the door to the passage leading to the surface.  He believes it is in the possession of the salamanders.  We have agreed to do this.~
-@34413 = ~Slave leader
+ガレスは鍵を取ってきてほしいと頼んだ。その鍵は地表へ続く通路の扉を開ける。彼は、それはサラマンダーたちが持っていると考えている。我々はこれを引き受けた。~
+@34413 = ~奴隷のリーダー
 
-We have learned that the slave leader is a woman named Vera. ~
-@34416 = ~Ice Salamanders
+我々は、奴隷のリーダーがヴェラという名の女性であることを知った。~
+@34416 = ~アイスサラマンダー
 
-According to Gareth, frost salamanders are sensitive to heat.  Perhaps we could use this knowledge against them.~
-@34417 = ~Escaped slaves
+ガレスによれば、フロストサラマンダーは熱に弱いという。おそらくこの知識を彼らに対して利用できるだろう。~
+@34417 = ~逃亡した奴隷
 
-We informed Gareth that the frost salamanders asked us to return him and the other slaves.  He said he would rather die than return to slavery and attacked us. ~
-@34418 = ~Escaped slaves
+我々はガレスに、フロストサラマンダーたちが彼と他の奴隷たちを返すよう求めてきたことを伝えた。彼は、奴隷に戻るくらいなら死んだ方がましだと言い、我々を攻撃してきた。~
+@34418 = ~逃亡した奴隷
 
-We met a man named Gareth who claims to be an escaped slave of a group of frost salamanders.~
-@34419 = ~Svirfneblin slaves
+我々は、フロストサラマンダーの一団から逃げてきた奴隷だと主張するガレスという名の男に出会った。~
+@34419 = ~スヴァーフネブリンの奴隷
 
-Beorn informed us that Marketh enslaves the deep gnomes to serve Revered Brother Poquelin.  According to him, salamanders, led by one called "Shikata," abuse the gnomes, often burning them to death.~
-@34420 = ~Beorn
+ベオルンは、マーケスがディープノームたちを奴隷にして尊師ポクリンに仕えさせていると教えてくれた。彼によれば、「シカタ」と呼ばれる者に率いられたサラマンダーたちがノームたちを虐待し、しばしば焼き殺しているという。~
+@34420 = ~ベオルン
 
-In a deep gnome refugee camp, we encountered a deep gnome priest of Callarduran named Beorn.  He was very suspicious of our presence in the camp.~
-@34422 = ~Girl with no tongue
+ディープノームの難民キャンプで、我々はベオルンという名のカラデュランのディープノーム司祭に出会った。彼は我々のキャンプへの訪問を非常に疑っていた。~
+@34422 = ~舌のない少女
 
-We met a slave girl in Lower Dorn's Deep.  She was taking food to a watchtower in the southern portion of Durdel Anatha.  We asked her for the key to the watchtower, and she handed it over. ~
-@34497 = ~Jonen's Dreams
+我々はロウアー・ドーンズ・ディープで奴隷の少女に出会った。彼女はダーデル・アナサの南部にある監視塔に食事を運んでいた。我々は彼女に監視塔の鍵を求め、彼女はそれを渡してくれた。~
+@34497 = ~ヨネンの夢
 
-We discovered that the blue-skinned woman by the lake is named Elisia, and she is responsible for the dreams plaguing Jhonen.  She promised one of his ancestors who lies dead beneath the lake that she would return his blade to Jhonen, but because of the laws of her community, she cannot allow Jhonen to see her.  We agreed to take the blade to Jhonen, then return and tell her when we've done what she asked.~
-@34498 = ~Arundel
+我々は、湖のそばにいる青い肌の女性がエリシアという名で、彼女がヨネンを悩ませている夢の原因であることを知った。彼女は湖の底に眠るヨネンの先祖の一人に、彼の剣をヨネンに返すと約束したが、彼女のコミュニティの掟のため、ヨネンに自分を見せることができない。我々は剣をヨネンに届け、その後戻って彼女に報告することに同意した。~
+@34498 = ~アルンデル
 
-We spoke to the Kuldahar blacksmith, Conlan, who told us about the town elder, Arundel.  Maybe we should pay him a visit. ~
-@34499 = ~Priestess of Auril
+我々はカルダハールの鍛冶屋コンランと話をした。彼は町の長老アルンデルについて教えてくれた。おそらく彼を訪ねるべきだろう。~
+@34499 = ~オーリルの女司祭
 
-We told Whitcomb we had dispatched of Lysan and told him she was an Auril priestess. He was about to throw out her belongings, but we convinced him to give them to us. There wasn't anything of importance in them - they were mostly a few priest scrolls wrapped in an old robe. Still, they might prove helpful on our expeditions. ~
-@40175 = ~Priestess of Auril
+我々はホイットコムに、ライサンを倒したこと、そして彼女がオーリルの女司祭だったことを伝えた。彼は彼女の持ち物を捨てようとしていたが、我々は彼を説得してそれらを譲り受けた。重要なものは何もなく、ほとんどは古いローブに包まれた司祭の巻物数本だった。それでも、我々の遠征で役に立つかもしれない。~
+@40175 = ~オーリルの女司祭
 
-We spoke with Kresselack's spirit, and he claims he is not responsible for the evil that plagues Kuldahar... but he claims to know who is. In exchange for an answer, he asked a boon of our party: slay a priestess of Auril who has recently tried to enter his tomb and extinguish the warmth within. Only when she is dead would he give us the answer we seek. ~
-@40680 = ~The Exile of Hjollder
+我々はクレセラックの霊と話をした。彼は、カルダハールを苦しめている悪の責任は自分にはないと主張したが、誰が責任者かは知っていると言う。答えと引き換えに、彼は我々に頼みごとをした。最近彼の墓に侵入しようとし、墓の中の温もりを消そうとしたオーリルの女司祭を倒してほしいというのだ。彼女が死んだ時にのみ、彼は我々が求める答えを与えるという。~
+@40680 = ~ヨルダーの追放
 
-We spoke before the council at the great mead hall and attempted to negotiate an end to the conflict. Wylfdene would have none of it, and accused us of being assassins. He would have killed us if Hjollder had not intervened. Unfortunately, when Hjollder could not explain his vision, Wylfdene grew enraged and banished him to the Burial Isle. We should find a boat and seek him there.~
-@120001 = ~Beetles in the cellar
+我々は大蜜酒ホールの評議会の前で演説し、紛争の終結を交渉しようとした。ワイルフデンはそれを拒否し、我々を暗殺者だと非難した。ヨルダーが介入しなければ、彼は我々を殺していただろう。残念ながら、ヨルダーが自分のヴィジョンを説明できなかったとき、ワイルフデンは激怒し、彼を埋葬の島に追放した。我々は船を見つけて、そこで彼を探すべきだ。~
+@120001 = ~地下室の甲虫
 
-At the Winter's Cradle Tavern, we inquired about a drink. The hostess replied that it was inconvenient for her to admit it ... but there, in the old dirty cellar, living creatures were divorced, and she was simply afraid to go down there.  She's terrified of bugs!~
-@120002 = ~Beetles in the cellar
+ウィンターズ・クレイドル酒場で、我々は酒を求めた。女主人は、それを認めるのは不都合だと答えた…　しかし、あの古くて汚い地下室には、生き物が湧いており、彼女は単純にそこへ降りるのを恐れているのだ。彼女は虫が大嫌いなのだ！~
+@120002 = ~地下室の甲虫
 
-We told Grisella that we have cleared the bugs out of the cellar. She was very grateful, only asked ... that this little problem stay between us.  She doesn't want to hear rumors spread around town that she's not a tavern, but a pigsty.~
-@120011 = ~Service to Bandoth
+我々はグリセラに、地下室から虫を一掃したことを伝えた。彼女は非常に感謝し、ただ一つ頼んだ…　この小さな問題を我々の間だけの秘密にしてほしいと。彼女は、自分の店が酒場ではなく豚小屋だという噂が町中に広がるのを聞きたくないのだ。~
+@120011 = ~バンドスへの奉仕
 
-In the Dorn's Deep, a mage named Bandoth asked us to do him a favor for information. He said that he had sent his apprentice to look for the razor vine extract, and he had been gone for several days.  And he is afraid that he stumbled upon some unpleasant inhabitants of these caves.  And he promised that he would tell us what we want to know if we find the student.~
-@120012 = ~Service to Bandoth
+ドーンズ・ディープで、バンドスという名のメイジが、情報と引き換えに我々に頼みごとをした。彼は、弟子をレイザーヴァインのエキスを探しに送り出したが、数日間戻ってきていないと言った。彼は、弟子がこの洞窟の不快な住人に遭遇したのではないかと恐れている。そして、もし我々が弟子を見つけたら、知りたいことを教えると約束した。~
+@120012 = ~バンドスへの奉仕
 
-We've brought a razorvine extract to Bandoth. And they said that they found him on the body of a dead man who was found in the ettin caves to the south of here.  He was annoyed that now the extract is there, but the student is gone.  Yes, a sad turn of events.~
-@2000036 = ~Heart of Winter
+我々はレイザーヴァインのエキスをバンドスに届けた。そして、ここから南のエッティンの洞窟で発見された死体の上でそれを見つけたと伝えた。彼は、エキスは手に入ったが弟子が失われたことに苛立っていた。そう、悲しい成り行きだ。~
+@2000036 = ~ハート・オブ・ウィンター
 
-The death of the spirit of Icasaracht put an end to the hatred that had been burning for centuries.
-The tribes of the North and the inhabitants of the Ten Towns laid down their arms and once again carefully look at each other ... they will live in peace - as long as their neighbors can live in peace.  Wylfdene's body was again buried on Burial Isle.  With his return, the crying of the maidens ceased ... they again sleep underground next to their master.  And what will happen to the brave heroes who came to defend the North?  What will become of you?  I look at you and see what you were and what you will become in the distant, radiant future.  Legends leave you behind, and legends await you ahead, as well as everyone whose hearts burn with the desire for adventure and glory.  But I will not say more about the future.  Everything I talk about, everything I see will be revealed to you ... when the time comes.
+イカサラクトの霊の死は、何世紀も燃え続けてきた憎悪に終止符を打った。
+北の部族とテンタウンの住民たちは武器を置き、再びお互いを慎重に見つめ合う…　彼らは平和に暮らすだろう。隣人が平和に暮らせる限り。ワイルフデンの遺体は再び埋葬の島に埋葬された。彼の帰還とともに、乙女たちの泣き声は止んだ…　彼女たちは再び主人のそばで地下に眠る。そして、北を守るために来た勇敢な英雄たちはどうなるのか？　あなたたちはどうなるのか？　私はあなたたちを見て、あなたたちが何であったか、そして遠い輝かしい未来に何になるかを見る。伝説はあなたたちの後ろに残り、伝説はあなたたちの前に待っている。冒険と栄光への欲望で心が燃えるすべての者たちと同じように。しかし、私は未来についてこれ以上語らない。私が語るすべて、私が見るすべては、あなたたちに明らかにされるだろう…　時が来れば。
 
-We managed to defeat the dragon Icasaracht, prove to the barbarian tribes that an evil spirit has infiltrated their leader, Wylfdene, and ward off the threat of a barbarian attack on the Ten Towns.~
-@2000037 = ~Icewind Dale
+我々は竜イカサラクトを倒し、蛮族の部族たちに彼らの指導者ワイルフデンに邪悪な霊が侵入していることを証明し、テンタウンへの蛮族の攻撃の脅威を回避することに成功した。~
+@2000037 = ~アイスウィンド・デイル
 
-We have succeeded in slaying the demon Belhifet, intent on taking over the entire north and destroying Easthaven.
-The portal is now closed and the threat of invasion has been stopped.  Kuldahar, and especially the Easthaven, are slowly coming to their senses, people are rebuilding destroyed houses and buildings.  Residents of both cities jointly cleared the Kuldahar pass and communication between the cities improved.
+我々は、北全体を支配しイーストヘイヴンを破壊しようとしていた悪魔ベルヒフェットを倒すことに成功した。
+ポータルは今や閉じられ、侵略の脅威は食い止められた。カルダハール、そして特にイーストヘイヴンは、徐々に正気を取り戻しつつあり、人々は破壊された家屋や建物を再建している。両都市の住民は共同でカルダハール峠を開通させ、都市間の交流が改善された。
 
-And the saviors of the city were last seen in the "Winter's Cradle" tavern, where for them, Grisella set new tables and took out everything that remained from her reserves.  And in the morning they were gone in the city ...~
-@4034638 = ~Crown of the Dwarven King
+そして都市の救世主たちが最後に目撃されたのは「ウィンターズ・クレイドル」酒場で、そこではグリセラが彼らのために新しいテーブルを用意し、自分の備蓄から残っているすべてを取り出していた。そして朝には、彼らは街から姿を消していた…~
+@4034638 = ~ドワーフ王の王冠
 
-We met a dwarf named Hreidmar Orcslayer. He revealed that his clan once dwelt in the Dorn's Deep.  But they had to leave their homeland under the onslaught of the orcs.  In doing so, they had to abandon many relics and artifacts.  And now he is looking for one of the relics lost during his departure.~
-@4034639 = ~Crown of the Dwarven King
+我々はフレイドマル・オークスレイヤーという名のドワーフに出会った。彼は、自分の一族がかつてドーンズ・ディープに住んでいたことを明かした。しかし、彼らはオークの猛攻の下で故郷を離れなければならなかった。その際、多くの聖遺物や工芸品を放棄せざるを得なかった。そして今、彼は出発時に失われた聖遺物の一つを探している。~
+@4034639 = ~ドワーフ王の王冠
 
-We met a dwarf named Hreidmar Orcslayer. He revealed that his clan once dwelt in the Dorn's Deep.  But they had to leave their homeland under the onslaught of the orcs.  In doing so, they had to abandon many relics and artifacts.  And now he is looking for one of the relics lost during his departure.  According to him, it should be on the third floor of the palace.~
-@4034640 = ~Crown of the Dwarven King
+我々はフレイドマル・オークスレイヤーという名のドワーフに出会った。彼は、自分の一族がかつてドーンズ・ディープに住んでいたことを明かした。しかし、彼らはオークの猛攻の下で故郷を離れなければならなかった。その際、多くの聖遺物や工芸品を放棄せざるを得なかった。そして今、彼は出発時に失われた聖遺物の一つを探している。彼によれば、それは宮殿の3階にあるはずだという。~
+@4034640 = ~ドワーフ王の王冠
 
-Crown of the King.
-In a palace in the Dorn's Deep, we found the King's Crown, an ancient relic of the dwarves.  This appears to be the very thing that Hreidmar Orcslayer wants to bring back.~
-@4034641 = ~Crown of the Dwarven King
+王の王冠。
+ドーンズ・ディープの宮殿で、我々はドワーフの古代の聖遺物である王の王冠を発見した。これは、フレイドマル・オークスレイヤーが取り戻したいと望んでいるまさにそのものであるようだ。~
+@4034641 = ~ドワーフ王の王冠
 
-Crown of the King.
-In a palace in the Dorn's Deep, we found the King's Crown, an ancient relic of the dwarves.~
-@4034642 = ~Crown of the Dwarven King
+王の王冠。
+ドーンズ・ディープの宮殿で、我々はドワーフの古代の聖遺物である王の王冠を発見した。~
+@4034642 = ~ドワーフ王の王冠
 
-We have returned to Hreidmar Orcslayer the sacred relic of his clan, the King's Crown.  He was very grateful and thanked us with a lot of gold.~
-@4034643 = ~Crown of the Dwarven King
+我々はフレイドマル・オークスレイヤーに、彼の一族の聖遺物である王の王冠を返した。彼は非常に感謝し、多くの金貨で我々に感謝の意を表した。~
+@4034643 = ~ドワーフ王の王冠
 
-We found the King's Crown that Hreidmar Orcslayer was looking for.  But they refused to return it to him.  Such a relic will be useful to us.  This greatly exaggerated the dwarf and he and his companions attacked us.~
+我々はフレイドマル・オークスレイヤーが探していた王の王冠を見つけた。しかし、我々は彼に返すことを拒否した。そのような聖遺物は我々にとって有用だろう。これはドワーフを激怒させ、彼と仲間たちは我々を攻撃してきた。~
 

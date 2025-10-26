@@ -51078,17 +51078,17 @@ THAC0：+4ボーナス、対グッド+6
 @33344 = ~テンプル・オブ・オグマ~
 @33345 = ~~
 @33346 = ~~
-@33347 = ~Your history is nearly as unknown as your future, and the things that are certain seem more fancy than fact. As unlikely as it may seem, you have the blood of a deity coursing through your veins. 
+@33347 = ~あなたの過去は未来と同じくらい不明瞭で、確かなことは事実というより空想に近い。信じがたいことだが、あなたの血管には神の血が流れている。
 
-You are a product of the Time of Troubles, a cataclysmic period when the gods were made flesh and forced to walk the earth among their followers. One such deity foresaw both the event and his inevitable death because of it, and so took steps to effect his resurrection. This god strode the land before he was made to, and in his wake left a score of mortal progeny driven to conquer and rule. They were not intended to be his successors, but rather the fuel for his rebirth. Heroes would rise to counter these tyrants, and when their evil fell, it would fall to the father. 
+あなたは受難の時の産物だ。神々が肉体を持たされ、信徒たちの間を歩くことを強いられた大変動の時代。ある神はこの出来事と、それによる自らの避けられない死を予見し、復活のための手段を講じた。この神は定められた時より前に大地を闊歩し、その跡には征服と支配に駆り立てられる定命の子供たちを残していった。彼らは神の後継者となることを意図されたのではなく、神の再生の燃料となることを意図されていた。英雄たちが立ち上がってこれらの暴君に対抗し、その邪悪が倒されれば、それは父なる神へと帰るのだ。
 
-The god was Bhaal, Lord of Murder, and you are one of his children.
+その神はバール、殺戮の王であり、あなたはその子供の一人である。
 
-You were cared for as a child by Gorion, a powerful wizard that may have had even more powerful friends. It was his influence that allowed you to spend your youth in the library fortress of Candlekeep, where the resident monks schooled you in your skills. Children were an oddity at the keep, though you did have a friend in Imoen. She seemed a kindred spirit, though you knew no more of her background than your own. Gorion never explained how you or she came to be there, or why you needed such a secluded home. It was only after his death that you learned the truth about your bloodline, when you were forced into conflict with his killer, another child of Bhaal.
+あなたは子供の頃、強力な魔法使いゴリオンに育てられた。彼にはさらに強力な友人がいたかもしれない。彼の影響力により、あなたは図書要塞キャンドルキープで青春時代を過ごすことができ、そこに住む修道士たちがあなたの技能を教育した。要塞では子供は珍しかったが、イモエンという友人がいた。彼女は似た境遇の仲間のように思えたが、あなたは彼女の背景について、自分自身のことと同じくらい何も知らなかった。ゴリオンは、あなたや彼女がなぜそこにいるのか、なぜこのような人里離れた場所が必要なのか、決して説明しなかった。あなたが血統の真実を知ったのは彼の死後のことで、彼を殺した者—もう一人のバールの子供—との戦いを強いられた時だった。
 
-Sarevok was this sibling's name, and he had embraced his foul origins, determined to exploit them and become the next Lord of Murder. He sought to create death on a massive scale, a war of sacrifice that would prove his claim to his father's throne. You unraveled his carefully wrought plans, and ultimately it was you that took his life, sending his taint back to Bhaal. A victory of sorts･･･　
+サレヴォクがその兄弟の名で、彼は汚らわしい出自を受け入れ、それを利用して次代の殺戮の王になろうと決意していた。彼は大規模な死を創り出し、父の玉座への継承権を証明する犠牲の戦争を求めた。あなたは彼の周到に練られた計画を解き明かし、最終的に彼の命を奪い、その汚染をバールへと送り返した。ある種の勝利だった…
 
-Now you face an uncertain future. A child of murder, you have a lineage that will tempt the ignorant to fear you and the unscrupulous to use you. And always the essence of Bhaal is within, exerting its dark pull when you are weakest. Which is the greater fear： Losing your life to fuel the fire, or losing your will and becoming it?~
+今、あなたは不確かな未来に直面している。殺戮の子として、あなたの血統は無知な者には恐れられ、不誠実な者には利用されるだろう。そして常にバールの本質があなたの内にあり、最も弱い時にその暗黒の引力を及ぼす。どちらがより大きな恐怖か：炎の燃料として命を失うこと、それとも意志を失ってその炎そのものになることか？~
 @33348 = ~~
 @33349 = ~デロサーズ・イン~
 @33350 = ~ベル・デルマーク~
@@ -61253,31 +61253,31 @@ Sandi McCleary~
 @36883 = ~指示をくれ。~
 @36884 = ~Mhmm?~
 @36885 = ~私の任務は？~
-@36886 = ~On my honor.~
+@36886 = ~名誉にかけて。~
 @36887 = ~Speak.~
 @36888 = ~早くしてくれ。~
 @36889 = ~なんでしょうか？~
 @36890 = ~正しい方向を教えてくれればいい。~
 @36891 = ~えっ？~
-@36892 = ~I'm waiting.~
+@36892 = ~待っているぞ。~
 @36893 = ~何か用か？~
-@36894 = ~On my honor.~
-@36895 = ~It shall be.~
+@36894 = ~名誉にかけて。~
+@36895 = ~承知した。~
 @36896 = ~そうしよう。~
 @36897 = ~それならばよろしい。~
-@36898 = ~Nothing to it.~
+@36898 = ~造作もない。~
 @36899 = ~オーケー~
 @36900 = ~お望みならば。~
 @36901 = ~これに価値があることを願うよ。~
-@36902 = ~Of course!~
-@36903 = ~It shall be.~
+@36902 = ~もちろん！~
+@36903 = ~承知した。~
 @36904 = ~引き受けた。~
 @36905 = ~もちろん。~
 @36906 = ~えっ？~
 @36907 = ~いいだろう。~
 @36908 = ~もちろんだ。~
-@36909 = ~Ah.~
-@36910 = ~I'll see to it.~
+@36909 = ~ああ。~
+@36910 = ~引き受けよう。~
 @36911 = ~断るなど考えられない。~
 @36912 = ~引き受けた。~
 @36913 = ~最善を尽くそう。~
@@ -61439,9 +61439,9 @@ Sandi McCleary~
 バルダーズ・ゲートで勝利したのも束の間、不運が訪れる。あなたは、都市の外で休息している時に捕らえられてしまう。自分をやすやすと殴りつけて意識を奪った敵の正体は全くわからず、今は奇妙な監獄の中に横たわり、運命を待っている。ぼんやりとした意識の中に残る拷問にかけられ実験台にされた時の感覚があなたを打ちのめし希望を失わせる。救いの手がどこから差し伸べられるのか、そもそも助かる見込みがあるのかさえわからない。あなたの仲間の運命はあなたの現在の立場と同様で、どうなるのか全く読めない。~
 @37069 = ~疑問というものは必ずしも答えが出るとは限らないようだ。あなたは脱出する時に、自分を捕らえた者、イレニカスに会ったが、その時の相手は戦いで敗れて、紫のカウルを着たウィザード達に捕らえられていたので、あなたにも手出しが出来なかった。更に悪いことにイモエンも捕らえられていた。どうも、危険な魔法を使用した「罪」を着せられているようだ。今あなたは大都市の広場に立っている。今し方目撃した騒ぎが嘘のように思えるほど賑やかな商いのざわめき。いなくなった友と、あなたに対して酷薄な扱いをした男の身に何が起きたのか、あなたは判断しなくてはならないだろう。征服にこれほど骨が折れるイレニカスとは一体何者なのか？　そして、イレニカスを再び見つけたら*あなた*には何ができるのか？　事態が予測できないというのはいらいらするものだ。どうやら、この都市の市民は好意的な人達のようだ。~
 @37070 = ~第十章：~
-@37071 = ~CHAPTER TEN
+@37071 = ~第十章
 
-As you step into the Abyssal plane, the first thing that strikes you is how suddenly alien it feels. A chill wind sweeps across an empty void, screaming in your ears that you are not welcome here. Several strange, towering structures are present, suspended in the void by an unknown power. All your immortal senses tell you, however, that the powerful essence of your dead father is close and that this place is indeed the Throne of Bhaal.~
+奈落界に足を踏み入れたあなたが最初に感じたのは、突然襲ってくる異質な雰囲気だった。冷たい風が虚空を吹き抜け、ここにあなたは歓迎されていないと耳元で叫んでいる。いくつかの奇妙で聳え立つ構造物が、未知の力によって虚空に浮遊している。しかし、あなたの不死の感覚全てが告げている。死んだ父の強大な本質がすぐ近くにあり、ここが確かにバールの玉座であると。~
 @37072 = ~エピローグ：~
 @37073 = ~~
 @37074 = ~第二章：~
@@ -61462,9 +61462,9 @@ As you step into the Abyssal plane, the first thing that strikes you is how sudd
 @37085 = ~第八章~
 @37086 = ~第八章~
 @37087 = ~第九章：~
-@37088 = ~CHAPTER NINE
+@37088 = ~第九章
 
-Dust blows around you, clearing a moment later to reveal what can only be Amkethran. A village nestled into an outcropping of rock amidst a desert so dry and sparse of life that you wonder how such a place could survive. Dominating the village and seemingly carved out of the stone face of the rocks themselves is a large and ornate fortress, its purpose unknown.~
+砂埃があなたの周りを舞い上がり、やがて晴れて明らかになったのは、まぎれもなくアムケスランだった。乾燥しきって生命の気配がほとんどない砂漠の中、岩の突起部分に寄り添うように佇む村。こんな場所でどうやって生き延びているのか不思議に思う。村を圧倒するように聳え立ち、岩肌そのものから彫り出されたかのように見えるのは、大きく華美な要塞。その目的は不明だ。~
 @37089 = ~<FIGHTERTYPE>~
 @37090 = ~ファイター：
 
@@ -62519,37 +62519,37 @@ Dust blows around you, clearing a moment later to reveal what can only be Amketh
 
 このキャラクターはクレリックとレンジャーの能力を使える。しかしクレリックと同じように刃や尖った物を武器にする事は禁止されている。使用可能な全ての武器をスペシャライゼーション（2スロット）まで割り振れる。マスター（3スロット）は不可。~
 @37307 = ~グリズリーベア~
-@37308 = ~GRIZZLY BEAR： A fairly common omnivorous mammal, bears tend to avoid humans unless provoked. Exceptions to this rule can be most unfortunate occurrences.
+@37308 = ~グリズリーベア：かなり一般的な雑食性の哺乳類で、熊は挑発されない限り人間を避ける傾向がある。この規則の例外は非常に不幸な出来事となり得る。
 
-Bears are, in general, large and powerful animals found throughout the world's temperate and cooler climates. Dense fur protects them from the elements and powerful claws protect them from other animals. Bears are the true rulers of the animal kingdom in areas where they are found.
+熊は一般的に、世界中の温帯および寒冷な気候で見られる大型で強力な動物である。密集した毛皮が自然環境から身を守り、強力な爪が他の動物から身を守る。熊は、彼らが生息する地域では動物王国の真の支配者である。
 
-Bears are fairly intelligent animals that can be trained to perform in a variety of ways, particularly if captured as cubs. Bears can thus often be found dancing in circuses or accompanying "mountain men" in the wilderness.
+熊はかなり知能の高い動物で、特に子熊の時に捕獲されれば、様々な方法で調教することができる。そのため、熊はしばしばサーカスで踊ったり、荒野で「山男」に同行したりする姿が見られる。
 
-The brown bear, of which the infamous grizzly is the most well known variety, commonly has a very aggressive disposition. Grizzly bears will often bring down large game such as deer and elk.
+グリズリーが最もよく知られている品種である茶色の熊は、一般的に非常に攻撃的な気質を持っている。グリズリーベアはしばしば鹿やエルクなどの大型獣を倒す。
 
-Advantages：
-– Natural Weapons： A grizzly bear can attack enemies with its powerful paws and teeth. A bite attack inflicts 1d10 points of piercing damage and can be made only once per round. A paw attack inflicts 1d6 points of slashing damage and can be made two or more times per round.
-– Hug： Whenever the bear's paw attack hits the target, there is a 15% chance that the bear will hug its target, dealing additional 2d6 points of crushing damage. Incorporeal or especially large and massive creatures, such as shadows, mists, elementals, giants, golems, or dragons, are unaffected by this ability.
-– Natural AC： Starts off at 6, and then decreases by 2 every 6th level, to the minimum of -2 AC at the 24th level.
-– Natural Weapon Proficiency： A bear starts off proficient with natural weapons.
-– Regeneration： A bear can slowly regenerate sustained wounds at the rate of 1 HP per turn.
-– Perfect Two-Weapon Fighting： A bear fights equally well with both paws, suffering no THAC0 penalties for the off-paw.
-– Able Drinker： A trained bear can drink healing potions from a bottle. Bears do not enjoy the taste of other magical potions, however.
-– 1st level： A grizzly bear can enter an enraged state once per day, receiving a+2 bonus to THAC0, damage, and Armor Class as well as immunity to charm, fear, confusion, hold, stun, and sleep for 1 turn. For every 6 levels thereafter, a bear gains one extra use of this ability.
-– 7th level： Natural weapons become+1; specialization in natural weapons.
-– 8th level：+1 bonus to Strength; regeneration rate increases to 2 HP/turn.
-– 13th level： Natural weapons become+2; mastery in natural weapons; bear can make three and a half attacks per round.
-– 16th level： Additional+1 bonus to Strength; regeneration rate increases to 3 HP/turn.
-– 19th level： Natural weapons become+3; high mastery in natural weapons; bear can make four attacks per round.
-– 24th level： Additional+1 bonus to Strength; regeneration rate increases to 4 HP/turn.
-– 25th level： Natural weapons become+4; grandmastery in natural weapons; bear can make four and a half attacks per round.
-– 31th level： Natural weapons become+5; bear can make five attacks per round.
-– 32th level： Additional+1 bonus to Strength; regeneration rate increases to 5 HP/turn.
-– 40th level： Additional+1 bonus to Strength; regeneration rate increases to 6 HP/turn.
+利点：
+– 自然武器：グリズリーベアは強力な前足と歯で敵を攻撃できる。噛みつき攻撃は1d10ポイントの刺突ダメージを与え、ラウンドごとに1回のみ行える。前足攻撃は1d6ポイントの斬撃ダメージを与え、ラウンドごとに2回以上行える。
+– 抱きつき：熊の前足攻撃が目標に命中するたびに、15%の確率で熊が目標を抱きしめ、追加で2d6ポイントの打撃ダメージを与える。シャドウ、ミスト、エレメンタル、ジャイアント、ゴーレム、ドラゴンなどの非実体またはとりわけ大型で重厚なクリーチャーはこの能力の影響を受けない。
+– 自然AC：6から始まり、6レベルごとに2減少し、24レベルで最小値-2ACとなる。
+– 自然武器習熟：熊は最初から自然武器に習熟している。
+– 再生：熊は持続した傷をターンあたり1HPの速度でゆっくりと再生できる。
+– 完璧な二刀流戦闘：熊は両方の前足で等しくよく戦い、利き手でない前足にTHAC0ペナルティを受けない。
+– 飲酒能力：訓練された熊は瓶から治癒ポーションを飲むことができる。ただし、熊は他の魔法のポーションの味を楽しまない。
+– 1レベル：グリズリーベアは1日1回激怒状態に入ることができ、THAC0、ダメージ、アーマークラスに+2のボーナスを受け、さらに魅了、恐怖、混乱、ホールド、気絶、睡眠に対する完全耐性を1ターンの間得る。その後6レベルごとに、熊はこの能力の使用回数を1回追加で得る。
+– 7レベル：自然武器が+1になる；自然武器の専門化。
+– 8レベル：筋力に+1ボーナス；再生速度が2HP/ターンに増加。
+– 13レベル：自然武器が+2になる；自然武器の熟練；熊はラウンドあたり3.5回攻撃できる。
+– 16レベル：筋力に追加で+1ボーナス；再生速度が3HP/ターンに増加。
+– 19レベル：自然武器が+3になる；自然武器の高度熟練；熊はラウンドあたり4回攻撃できる。
+– 24レベル：筋力に追加で+1ボーナス；再生速度が4HP/ターンに増加。
+– 25レベル：自然武器が+4になる；自然武器の達人；熊はラウンドあたり4.5回攻撃できる。
+– 31レベル：自然武器が+5になる；熊はラウンドあたり5回攻撃できる。
+– 32レベル：筋力に追加で+1ボーナス；再生速度が5HP/ターンに増加。
+– 40レベル：筋力に追加で+1ボーナス；再生速度が6HP/ターンに増加。
 
-Disadvantages：
-– Cannot use any equipment.
-– Cannot speak Common.~
+欠点：
+– いかなる装備も使用できない。
+– 共通語を話せない。~
 @37309 = ~~
 @37310 = ~拳~
 @37311 = ~チェインアーマー・オブ・ダークネス~
@@ -62735,21 +62735,21 @@ Disadvantages：
 @37427 = ~ヴァンパイア
 
 ヴァンパイアは頑健なアンデッドで、自分達の歪んだ目的を遂げるために、生きている者を常食にしている。血を吸われると悪い影響が現れる人種は多いが、その影響は多くの場合予測不可能である。~
-@37428 = ~Priest of Tyr~
-@37429 = ~PRIEST OF TYR： Tyr is the deity of law and justice and is primarily concerned with the punishment of wrongdoers and the general furthering of law and good in the world. The belief in justice through (benevolent) force, or at least armed vigilance, is the reason for Tyr's existence. Tyr holds great prominence in the pantheon due to his position as leader of the Triad, a trio of lawful good gods that are collectively devoted to the concepts of courage, justice, perseverance, relief of suffering, duty, obedience, honor, and to some extent, righteous martyrdom.
+@37428 = ~ティアのプリースト~
+@37429 = ~ティアのプリースト：ティアは法と正義の神格であり、主に悪人への罰と世界における法と善の推進に関心を持っている。（慈悲深い）力による正義、あるいは少なくとも武装した警戒の信念が、ティアの存在理由である。ティアは三神の指導者としての地位により、神々の殿堂で大きな重要性を保持している。三神とは秩序にして善の三柱の神々で、勇気、正義、不屈、苦しみの救済、義務、服従、名誉、そしてある程度までは正義の殉教の概念に共同で献身している。
 
-Advantages：
-– May cast Exaltation once per day every 5 levels of the caster (starts at 1st level with one use).
+利点：
+– 術者のレベル5ごとに1日1回、高揚を唱えることができる（1レベル時に1回使用可能で開始）。
 
-EXALTATION： This spell enables a priest to aid and protect any one being other than themselves. By touch, the caster removes the effects of fear, sleep, feeblemindedness, unconsciousness, and intoxication, as well as berserk and confused states of mind. In addition, the recipient is protected against spells and other attacks that cause these effects for 1 turn.
+高揚：この呪文により、プリーストは自分以外のいかなる存在1体を助け、保護することができる。接触により、術者は恐怖、睡眠、精神薄弱、意識不明、中毒の効果、さらにバーサーク状態や混乱状態を取り除く。さらに、受け手は1ターンの間、これらの効果を引き起こす呪文やその他の攻撃から保護される。
 
-– May cast Divine Favor once per day every 10 levels of the caster (starts at 1st level with one use).
+– 術者のレベル10ごとに1日1回、神聖な恩恵を唱えることができる（1レベル時に1回使用可能で開始）。
 
-DIVINE FAVOR： This spell grants the caster a+1 bonus to hit and damage rolls every 3 levels of the caster. The spell lasts for 2 rounds.
+神聖な恩恵：この呪文は術者のレベル3ごとに命中ロールとダメージロールに+1のボーナスを与える。呪文は2ラウンド持続する。
 
-Disadvantages：
-– Alignment restricted to lawful good, neutral good, or lawful neutral.~
-@37430 = ~After leaving <GABBER>'s company, Korgan Bloodaxe lived in as bloody a fashion as he could manage. He took control of an entire dwarven clan, killing their leader in secret and guiding their revenge to a target of his choosing. He could have lived in luxury, but his thirst for carnage was immeasurable, and he stunned the Realms by pushing deep into the Underdark. The blind fury of the clan took even the dark elves by surprise, but holding territory in the home of the drow is a hopeless proposition. Korgan was last seen burying his axe in the gullet of a high priest of Lolth, laughing as he struck. Dwarven legend immortalized the image, and his bloodlust is now called a crusade. History, it seems, finds more heroes than madmen.~
+欠点：
+– 属性が秩序にして善、中立にして善、または秩序にして中立に制限される。~
+@37430 = ~<GABBER>のもとを離れた後、コーガン・ブラッドアクスはできる限り血なまぐさい生き方を続けた。ドワーフの氏族全体を掌握し、そのリーダーを密かに殺害すると、氏族の復讐心を自分の選んだ標的へと導いた。彼は贅沢な暮らしもできたはずだが、殺戮への渇望は計り知れず、アンダーダークの奥深くへ侵攻してレルムを驚愕させた。氏族の盲目的な怒りはダークエルフさえも驚かせたが、ドラウの本拠地で領土を保持するのは絶望的な試みだった。コーガンが最後に目撃されたのは、ロルスの高位司祭の喉にアックスを埋め込み、笑いながら斬りつけている姿だった。ドワーフの伝説はその姿を不朽のものとし、彼の血への渇望は今や聖戦と呼ばれている。歴史というものは、狂人よりも英雄を多く見出すものらしい。~
 @37431 = ~ロウナル卿を捜し出して殺すあなたの仕事は時間がかかり過ぎている。思い掛けず自分の勢力が衰え後退し始めていることにあなたが気付いた時は、ほぼ手遅れになっている。
 
 ロウナル卿の軍の一部が既に城壁を乗り越え始めている。間もなく城の中から聞こえてきた音で戦闘が始まったことがわかる。
@@ -62807,12 +62807,12 @@ Disadvantages：
 @37471 = ~ディズエイブリング・エフェクト解除~
 @37472 = ~コンビネーション・スペル解除~
 @37473 = ~ノンコンバット・スペルは解除された~
-@37474 = ~Neera traveled back to the north, stopping at inns and taverns along the way, always listening happily as bards wove tales both true and false of her adventures with <GABBER>. When she reached the High Forest, she was welcomed back as a hero and personally congratulated by Turlang the treant. Afterwards, Neera returned to Amn to reunite with the surviving wild mages of the Hidden Refuge, thinking she would find happiness in their company. But Neera was now restless and powerful. She soon departed, making her way to the Moonsea. With the help of a wild surge or two, she sank three docked Thayan slaver ships single-handedly, driving the Red Wizards from the city of Melvaunt. This attracted Thay's attention, and Neera found herself hounded once again by Red Wizards. She enjoyed it, for a time, and at one point even found herself in another alliance of convenience with Szass Tam, but eventually she returned to the Sword Coast, where she lived the rest of her days with her friends and her memories.~
-@37475 = ~Neera traveled back to the north, stopping at inns and taverns along the way, always listening happily as bards wove tales both true and false of her adventures with <GABBER>. When she reached the High Forest, she was welcomed back as a hero and personally congratulated by Turlang the treant. <GABBER> soon joined her. Sometimes going their own ways and sometimes reuniting with their old friends and companions, they wandered Faerûn. Though the Order of Eight Staves was no more, Neera and <GABBER> often found themselves opposing the machinations of Thay. One of Neera's greatest feats was the sinking of three Thayan slaver ships single-handedly, an act that drove the Red Wizards to flee the city of Melvaunt. One day, <GABBER> woke up and found that Neera was gone. She had left no note, given no sign she meant to leave. <GABBER> only smiled, for he knew her destination, and in a few weeks' time, he followed her there.~
-@37476 = ~With no one to temper his wrath, it was inevitable Dorn would come to a bad end. Though he escaped the wrath of the gods, there were others whose retribution could not be avoided. Hunted down and captured by a "Freelance Jurist," Mercy Whitedove, he was taken back to Luskan to stand trial. He was found guilty of the mass slaughter of every man, woman, and child in a village called Barrow, where his dark path began. Sentenced to death, Dorn broke free of the prison on three occasions before the sentence could be carried out. Twice, he was tracked down by Whitedove and returned. For their final meeting, Dorn was determined not to be taken alive, and in this respect he was successful. To save her own life, Whitedove was forced to slay the so-called "Butcher of Barrow." Tales of Dorn Il-Khan were told for decades after, both by parents with unruly children in need of discipline and by those vile men and women who admired the half-orc's deeds.~
-@37477 = ~To this day, tales of Dorn Il-Khan and <GABBER> are told, both by parents whose unruly children need some discipline and those vile men and women who admired the malevolent pair's deeds. Their relationship was a tempestuous one, with each vying to control the other at every turn. Though they successfully evaded the wrath of the gods, Dorn and <GABBER> would find it more difficult to escape mortal justice. Dorn was captured by a woman named Mercy Whitedove and taken to Luskan, where he was tried for the mass slaughter of the village of Barrow. <GABBER> executed Dorn's daring and bloody escape, after which they spent several years avoiding Whitedove and other bounty hunters. Given their temperaments, the end of Dorn and <GABBER>'s relationship was perhaps inevitable. After their umpteenth escape from the implacable Whitedove, the tension between them exploded into violence. Left with little choice, <GABBER> slew Dorn and disappeared into the shadows of history.~
-@37478 = ~Beyond her acquaintance with the Bhaalspawn <GABBER>, little is known of Hexxat, which is doubtless how she preferred it. Cabrina continued to tell stories about the vampire to new agents of Larloch—but replaced the cautionary tale of her loss in Dragomir's Tomb with the inspirational one of her return seemingly from death to complete the mission she was assigned. Decades later, tales would spread throughout Chult of the Pale Woman, a vengeful, demonic entity who targeted clerics of Ubtao and drained their bodies of blood. Whether there's any truth to the stories or not, Ubtao worship declined drastically on the Chultan continent, ultimately continuing only in small pockets of immigrant communities in cities such as Waterdeep.~
-@37479 = ~Though it's likely Hexxat and <GABBER> had many adventures after the incidents of the Bhaalspawn saga, tales of those adventures are hard to come by, and reliable ones harder still. This is doubtless how Hexxat preferred it. Cabrina continued to tell Hexxat's story to prospective agents of Larloch, replacing her two-hundred-year-old cautionary tale with the inspirational one of her return seemingly from death to complete the mission she was assigned. In less guarded moments, Cabrina could be heard to lament losing Hexxat to "that awful <PRO_CLASS>." When pressed, she would claim Hexxat and <GABBER> spent some years traveling together before settling in Waterdeep, where they were key players behind the scenes in that city's noble and criminal fraternities.~
+@37474 = ~ニーラは北へと旅立ち、道中の宿屋や酒場に立ち寄りながら、吟遊詩人が<GABBER>との冒険について真実と虚構を織り交ぜて語る物語を楽しそうに聞いていた。ハイフォレストに到着すると、彼女は英雄として歓迎され、トリーアントのトゥーラングから直接祝福を受けた。その後、ニーラはアムンに戻り、隠れ里で生き残ったワイルドメイジたちと再会し、彼らと共に幸せを見出せると考えた。しかしニーラは今や落ち着きがなく、強大な力を持っていた。彼女はすぐに旅立ち、ムーンシーへと向かった。ワイルドサージの力を借りて、彼女は単独で停泊中のセイの奴隷船3隻を沈め、レッドウィザードをメルヴォーントの街から追い出した。これがセイの注意を引き、ニーラは再びレッドウィザードに追われる身となった。しばらくの間、彼女はそれを楽しみ、一時はザス・タムと便宜的な同盟を結ぶことさえあったが、最終的にはソードコーストに戻り、友人たちと思い出と共に残りの人生を過ごした。~
+@37475 = ~ニーラは北へと旅立ち、道中の宿屋や酒場に立ち寄りながら、吟遊詩人が<GABBER>との冒険について真実と虚構を織り交ぜて語る物語を楽しそうに聞いていた。ハイフォレストに到着すると、彼女は英雄として歓迎され、トリーアントのトゥーラングから直接祝福を受けた。<GABBER>もすぐに彼女と合流した。時には別々の道を歩み、時には旧友や仲間と再会しながら、二人はフェイルーンを放浪した。八杖教団はもはや存在しなかったが、ニーラと<GABBER>はしばしばセイの陰謀に立ち向かうことになった。ニーラの最大の功績の一つは、セイの奴隷船3隻を単独で沈め、レッドウィザードをメルヴォーントの街から逃走させたことである。ある日、<GABBER>が目を覚ますとニーラは姿を消していた。彼女は手紙も残さず、去る兆しも見せなかった。<GABBER>はただ微笑んだ。彼女の目的地を知っていたからだ。数週間後、<GABBER>は彼女の後を追った。~
+@37476 = ~怒りを抑える者がいなくなったドルンが悲惨な最期を遂げるのは必然だった。神々の怒りからは逃れられたものの、避けられない報復が他に存在した。「フリーランスの法官」マーシー・ホワイトダヴに追い詰められ捕らえられた彼は、ラスカンに連行されて裁判にかけられた。彼の暗黒の道が始まった村、バローの全住民—男、女、子供—を虐殺した罪で有罪とされた。死刑を宣告されたドルンは、刑が執行される前に3度も牢を破って脱獄した。2度はホワイトダヴに追跡されて連れ戻された。最後の対決で、ドルンは生きて捕らえられまいと決意し、その点では成功した。自らの命を守るため、ホワイトダヴはいわゆる「バローの虐殺者」を討ち取らざるを得なかった。ドルン・イル＝カーンの物語は、その後何十年にもわたって語り継がれた。手のつけられない子供を躾ける親たちにも、ハーフオークの行いを賞賛する邪悪な男女にも。~
+@37477 = ~今日に至るまで、ドルン・イル＝カーンと<GABBER>の物語は語り継がれている。手のつけられない子供を躾ける親たちにも、この邪悪な二人組の行いを賞賛する下劣な男女にも。二人の関係は激しく荒々しいもので、常に互いを支配しようと争っていた。神々の怒りからの逃亡には成功したが、ドルンと<GABBER>は定命の者の正義から逃れることは困難だと知った。ドルンはマーシー・ホワイトダヴという女に捕らえられ、ラスカンに連行されてバローの村の大虐殺で裁判にかけられた。<GABBER>はドルンの大胆で血なまぐさい脱獄を実行し、その後数年間、ホワイトダヴや他の賞金稼ぎから逃れ続けた。二人の気質を考えれば、ドルンと<GABBER>の関係の終焉はおそらく必然だった。執拗なホワイトダヴから何度目かの脱出を果たした後、二人の間の緊張は爆発して暴力に発展した。選択の余地がほとんどなく、<GABBER>はドルンを討ち、歴史の影に消えていった。~
+@37478 = ~バールスポーン<GABBER>との交流を除けば、ヘクサートについて知られていることはほとんどない。おそらくそれが彼女の望みだった。カブリナはラーロックの新たな手下たちにヴァンパイアの物語を語り続けたが、ドラゴミールの墓での敗北という教訓話を、死から蘇って任務を完遂したという鼓舞的な物語に置き換えた。数十年後、チャルトには「蒼白の女」の物語が広まった。復讐に燃える悪魔的存在で、ウブタオの聖職者を標的とし、その血を吸い尽くすという。物語に真実が含まれているかどうかに関わらず、チャルト大陸ではウブタオ信仰が劇的に衰退し、最終的にはウォーターディープなどの都市にある移民コミュニティの小さな一角でのみ続くこととなった。~
+@37479 = ~バールスポーン伝説の事件の後、ヘクサートと<GABBER>が多くの冒険を経験したことは間違いないが、その冒険の物語は入手困難で、信頼できるものはさらに稀だ。おそらくそれがヘクサートの望みだった。カブリナはラーロックの将来の手下たちにヘクサートの物語を語り続け、二百年前の教訓話を、死から蘇って任務を完遂したという鼓舞的な物語に置き換えた。気を許した瞬間には、カブリナがヘクサートを「あの忌々しい<PRO_CLASS>」に奪われたことを嘆く声が聞かれた。問い詰められると、彼女はヘクサートと<GABBER>が数年間共に旅をした後、ウォーターディープに落ち着き、その都市の貴族と犯罪組織の舞台裏で重要な役割を果たしたと主張するのだった。~
 @37480 = ~人間~
 @37481 = ~人間：
 
@@ -62898,9 +62898,9 @@ Disadvantages：
 @37508 = ~ヴァンパイア~
 @37509 = ~ティーフリング~
 @37510 = ~ティーフリング~
-@37511 = ~Though Alorgoth was not seen again for many years after the events in the Deepstone mines, the Bringer of Doom was not killed there. But by the time Alorgoth resurfaced, Rasaad's interest in avenging his brother had waned. He finally found the peace he sought as a devotee of the Trust. Offering a more tolerant, less dogma-laden path to those worshippers who had grown disenchanted with Shar or Selûne—or at least the clergy that represented them—he ultimately renounced violence. He and his followers retreated to a remote monastery in the Cloud Peak mountains. There, Rasaad lived the rest of his life in quiet contemplation.~
-@37512 = ~Though Alorgoth was not seen again for many years after the events in the Deepstone mines, the Bringer of Doom was not killed there. By the time Alorgoth resurfaced, Rasaad had already been dead for some time. After the events of the Bhaalspawn saga, Rasaad was no longer satisfied to live as a fugitive. He returned to Calimshan, determined to prove his loyalty to the Sun Soul order. Unable to convince the Sun Soul's hierarchy he had truly not parted with their teachings, he was cast out. Denouncing the judgment, proclaiming his innocence, and refusing to leave, the stories say he fought off more than a hundred Sun Soul monks before succumbing to their superior numbers. Haraan Sixscar herself struck the final blow. In the aftermath of Rasaad's death, those present were shocked to realize that not one of those he fought that day had been killed. Later, the monk Gahan, one of those who decided Rasaad's guilt, was revealed to be an agent of the Dark Moon order.~
-@37513 = ~Though Alorgoth was not seen for many years after the events in the Deepstone mines, the Bringer of Doom was not killed there. But by the time Alorgoth resurfaced, Rasaad's focus had moved from avenging his dead family members to caring for his new ones. Unable to convince the Sun Soul order of his dedication to them, he and <GABBER> went made a home together in the Cloud Peak mountains. Their seven children enjoyed an idyllic childhood, brought up according to the tenets of the Sun Soul philosophy. But the children were of the Bashir bloodline, and it was only a matter of time before the darkness that plagued their father found them as well. One pleasant spring evening, Rasaad and <GABBER> were set upon and killed by Sharran assassins. Another victory for Alorgoth, but it was one that cost the Dark Moon dearly. Possessed of Sun Soul skills and Bhaalspawn blood, the Seven embarked on a bloody path of vengeance from which the Dark Moon sect would never fully recover.~
+@37511 = ~ディープストーン鉱山での出来事の後、アロルゴスは長年姿を見せなかったが、破滅の使者はそこで倒されてはいなかった。しかしアロルゴスが再び姿を現した頃には、ラサードの兄の仇を討ちたいという思いは薄れていた。彼はトラスト教団の信徒として、ついに求めていた平穏を見出した。シャールやセルーネイ—少なくとも彼らを代表する聖職者—に幻滅した信徒たちに、より寛容で教義に縛られない道を提供し、最終的に彼は暴力を放棄した。彼と信徒たちはクラウドピーク山脈の人里離れた修道院に退いた。そこでラサードは、静かな瞑想の中で残りの人生を過ごした。~
+@37512 = ~ディープストーン鉱山での出来事の後、アロルゴスは長年姿を見せなかったが、破滅の使者はそこで倒されてはいなかった。アロルゴスが再び姿を現した時には、ラサードはすでに死んで久しかった。バールスポーン伝説の出来事の後、ラサードはもはや逃亡者として生きることに満足できなかった。彼はカリムシャンに戻り、太陽の魂教団への忠誠を証明しようと決意した。太陽の魂の幹部たちに、本当に教えから離れていないことを納得させられず、彼は追放された。判決を非難し、潔白を主張し、去ることを拒んだ彼は、物語によれば、百人以上の太陽の魂の修行僧と戦い、最後には数の多さに屈した。ハラーン・シックススカー自身が最後の一撃を加えた。ラサードの死後、その場にいた者たちは驚愕した。彼がその日戦った者の中に、一人として死んだ者がいなかったことに気づいたのだ。後に、ラサードの有罪を決定した修行僧の一人ガーハンが、暗月教団の手先であったことが明らかになった。~
+@37513 = ~ディープストーン鉱山での出来事の後、アロルゴスは長年姿を見せなかったが、破滅の使者はそこで倒されてはいなかった。しかしアロルゴスが再び姿を現した頃には、ラサードの関心は死んだ家族の仇を討つことから、新しい家族を大切にすることへと移っていた。太陽の魂教団に献身を納得させられなかった彼は、<GABBER>と共にクラウドピーク山脈に家を築いた。七人の子供たちは、太陽の魂の哲学の教義に従って育てられ、牧歌的な幼少期を楽しんだ。しかし子供たちはバシール家の血筋であり、父親を苦しめた闇が彼らをも見つけるのは時間の問題だった。ある穏やかな春の夕べ、ラサードと<GABBER>はシャール信徒の暗殺者に襲われて殺された。アロルゴスのまた一つの勝利だったが、それは暗月教団に大きな代償を払わせるものでもあった。太陽の魂の技術とバールスポーンの血を持つ七人は、血塗られた復讐の道に乗り出し、暗月教団はそこから完全には立ち直れなかった。~
 @37514 = ~見くびられた~
 @37515 = ~嫌われた~
 @37516 = ~平均的~
@@ -63348,7 +63348,7 @@ If you wish to continue playing and return to Saradush to do anything that you m
 @37818 = ~呪文詠唱成功、術者レベル2倍扱い~
 @37819 = ~呪文詠唱成功~
 @37820 = ~あれは何だろう？あそこ！~
-@37821 = ~Among those who speak the animal tongues, the tales of Wilson the bear's adventures are well-known and loved. A defender of the weak and a tireless crusader for peace in a world rife with violence, Wilson's courage and heroism are the stuff of legend in the animal kingdoms. The legends of Wilson passed down through the generations are countless, but a few stand out. A favorite among the deer and gazelle, among others, is the story of how he freed countless species from the tyrannical rule of corrupt Lion Kingdom. After ending his own kind's murderous rampage against fish, he was the first and only mammal ever to be made a saint to the salmon. But perhaps his greatest triumph came when he forged a lasting peace in the ages-old conflict between cats and dogs. For all these things and more, Wilson is remembered fondly by all good and steadfast members of the wild kingdom. He died peacefully during hibernation at the age of thirty-seven, surrounded by family and friends.~
+@37821 = ~動物の言葉を話す者たちの間で、熊のウィルソンの冒険譚はよく知られ、愛されている。弱者の守護者であり、暴力に満ちた世界で平和のために飽くなき戦いを続けた彼の勇気と英雄的行為は、動物王国では伝説となっている。代々受け継がれてきたウィルソンの伝説は数え切れないが、いくつか際立ったものがある。鹿やガゼルなどに特に人気があるのは、彼が腐敗したライオン王国の専制支配から無数の種を解放した物語だ。自らの種族による魚への殺戮の暴走を終わらせた後、彼はサケにとって聖人とされた最初で唯一の哺乳類となった。しかしおそらく彼の最大の勝利は、猫と犬の間の太古からの抗争に永続的な平和を築いたことだろう。これらすべてのことなどのために、ウィルソンは野生王国の善良で誠実なすべてのメンバーに愛されて記憶されている。彼は三十七歳の時、家族と友人に囲まれて冬眠中に安らかに死んだ。~
 @37822 = ~約束は？~
 @37823 = ~<DAY>　<MONTHNAME>~
 @37824 = ~<MONTHNAME>~

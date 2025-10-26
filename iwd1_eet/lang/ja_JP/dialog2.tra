@@ -330,9 +330,9 @@ THACO: +1
 @4034638 = ~フレイドマル・オークスレイヤーという名のドワーフに会った。彼は、彼の一族がかつてドーンズ・ディープに住んでいたことを明かした。しかし彼らはオークの猛攻の下、故郷を離れなければならなかった。その際、多くの遺物や工芸品を放棄せざるを得なかった。そして今、彼は出発時に失われた遺物の一つを探している。~
 @4034639 = ~フレイドマル・オークスレイヤーという名のドワーフに会った。彼は、彼の一族がかつてドーンズ・ディープに住んでいたことを明かした。しかし彼らはオークの猛攻の下、故郷を離れなければならなかった。その際、多くの遺物や工芸品を放棄せざるを得なかった。そして今、彼は出発時に失われた遺物の一つを探している。彼によれば、それは宮殿の3階にあるはずだという。~
 @4034640 = ~王の王冠。
-In a palace in the Dorn's Deep, we found the King's Crown, an ancient relic of the dwarves.  This appears to be the very thing that Hreidmar Orcslayer wants to bring back.~
-@4034641 = ~Crown of the King.
-In a palace in the Dorn's Deep, we found the King's Crown, an ancient relic of the dwarves.~
+ドーンズ・ディープの宮殿で、ドワーフの古代遺物である王の王冠を発見した。これこそがオークスレイヤーのフレイドマーが取り戻したいと望んでいるものと思われる。~
+@4034641 = ~王の王冠。
+ドーンズ・ディープの宮殿で、ドワーフの古代遺物である王の王冠を発見した。~
  // done
 @4034642 = ~一族の神聖な遺物である「王の王冠」を、オーク殺しのフレイドマーに返還した。彼は非常に感謝し、多額の金貨で礼をしてくれた。~
 @4034643 = ~オーク殺しのフレイドマーが探していた「王の王冠」を発見した。しかし彼に返還することを拒否した。このような遺物は我々にとって有用だろう。これがドワーフを激怒させ、彼とその仲間たちは我々を攻撃してきた。~
@@ -357,16 +357,16 @@ In a palace in the Dorn's Deep, we found the King's Crown, an ancient relic of t
 @1100106 = ~何でもないことだ。~
 
 // Auril 1 @40406 - @40435
- @770000 = ~:With the song in the air, a ghostly figure appears before you, shimmering and transparent.:~
- @770001 = ~:It takes one last, sad look at the party before fading away.:~
- @770002 = ~:The figure moves its mouth as if to speak, but no words come out.:~
- @770003 = ~:The figure moves its mouth as if to speak, but no words come out. It gestures to the empty scabbard on its hip as it tries to speak.:~
- @770004 = ~Blade... my old blade... where's my blade?~
- @770005 = ~Ah, my old rousing music. It is good to see this world once again.~
- @770006 = ~Only a gifted player could restore me to such clarity. For this, I must thank you, young bard.~
- @770007 = ~I can teach you a few tricks with her--I think you'll find her even more useful.~
- @770008 = ~Farewell, travelers.~
- @770009 = ~Murdaugh, we found this old journal from a bard. Could you try playing it for us?~
+ @770000 = ~:歌が空気中に響くと、あなたの前にきらめく透明な幽霊の姿が現れる。:~
+ @770001 = ~:霊は消え去る前に、一行を最後の悲しげな視線で見つめる。:~
+ @770002 = ~:霊は話そうとするように口を動かすが、言葉は出てこない。:~
+ @770003 = ~:霊は話そうとするように口を動かすが、言葉は出てこない。話そうとしながら、腰の空の鞘に向けて身振りをする。:~
+ @770004 = ~剣が…　我が古き剣が…　我が剣はどこに？~
+ @770005 = ~ああ、我が古き心を奮い立たせる音楽よ。再びこの世界を見ることができて嬉しい。~
+ @770006 = ~才能ある演奏者だけが、私をこれほどの明瞭さに蘇らせることができる。そのことに、若き吟遊詩人よ、感謝せねばならぬ。~
+ @770007 = ~彼女を使ういくつかの技を教えよう――さらに役立つと分かるだろう。~
+ @770008 = ~さらばだ、旅人たちよ。~
+ @770009 = ~マーダウ、吟遊詩人の古い楽譜を見つけたんだ。演奏してもらえないか？~
 @7700010 = ~さて、どれどれ…　これは難しい曲だが、私にできると思う。~
 @7700011 = ~お前の剣だと？　はっきり話せ、霊よ。~
 @7700012 = ~我が剣…　我が剣…~
@@ -589,35 +589,35 @@ In a palace in the Dorn's Deep, we found the King's Crown, an ancient relic of t
 //@40488
 @770081000 = ~イエティの毛皮の鎧+1~
 
-@770081001 = ~Hide Armor is made from the thick skin of large animals (yeti, in this case) or layers of thinner, more common leather.  It is considered too cumbersome for use in advanced human cultures, but is common among more barbaric humanoids.  It offers better protection than normal leather, but can be hard to maintain, often resulting in an offensive odor or shoddy appearance that prevents effective use.
+@770081001 = ~ハイド・アーマーは、大型動物（この場合はイエティ）の厚い皮膚、または薄手のより一般的な革を重ねて作られる。先進的な人間文化では扱いにくいとされているが、より野蛮な人型生物の間では一般的である。通常の革よりも優れた防護力を提供するが、手入れが難しく、不快な臭いや粗末な外観を招くことが多いため、効果的な使用が妨げられる。
 
-This particular set of armor was cured by Conlan and enchanted by Orrick. Orrick was not able to quite get rid of its inherited weakness against fire, though it offers some natural protection against cold.
+この特定の鎧はコンランによって硬化処理され、オリックによって魔法が付与された。オリックは火に対する遺伝的な弱点を完全には取り除くことができなかったが、冷気に対する自然な防御力を備えている。
 
 STATISTICS:
-   +15% Resistance to Cold
-   -3% Resistance to Fire
+   冷気耐性 +15%
+   火炎耐性 -3%
 
-Armor Class: 5
-Weight: 28
-Requires: 6 Strength~
+アーマークラス: 5
+重量: 28
+必要能力値: 筋力6~
 @770081002 = ~豊富の矢筒+1~
-@770081003 = ~The history of this magical quiver has been long forgotten, though it likely had something to do with the inexplicable but well documented shortage of competent fletchers during the Time of Troubles.
+@770081003 = ~この魔法の矢筒の歴史は忘れ去られて久しいが、動乱の時代における有能な矢師の不可解だが記録に残る不足と関係があると思われる。
 
 STATISTICS:
 
-Unlimited +1 Arrows~
+無限の+1アロー~
 @770081004 = ~豊富のケース+1~
-@770081005 = ~The history of this magical case has been long forgotten, though it likely had something to do with the inexplicable but well documented shortage of competent fletchers during the Time of Troubles.
+@770081005 = ~この魔法のケースの歴史は忘れ去られて久しいが、動乱の時代における有能な矢師の不可解だが記録に残る不足と関係があると思われる。
 
 STATISTICS:
 
-Unlimited +1 Bolts~
+無限の+1ボルト~
 @770081006 = ~豊富の袋+1~
-@770081007 = ~Although this soft cloth pouch is empty right now, there is still a powerful aura of magic surrounding it.
+@770081007 = ~この柔らかい布の袋は今は空だが、それでも強力な魔法のオーラがそれを取り巻いている。
 
 STATISTICS:
 
-Unlimited +1 sling bullets~
+無限の+1スリング弾~
 
 //@40637
 @770081008 = ~白竜の鱗~
@@ -626,181 +626,181 @@ Unlimited +1 sling bullets~
 //@40636
 @770081010 = ~白竜の鱗鎧~
 //@40635
-@770081011 = ~Not surprisingly, this armor created from the scales of Icasaracht provides the wearer with protection from cold and ice.
+@770081011 = ~驚くことではないが、イカサラクトの鱗から作られたこの鎧は、着用者に冷気と氷からの防護を提供する。
 
 STATISTICS:
-   +50% Resistance to Cold
+   冷気耐性 +50%
 
-Armor Class: -2
-Weight: 15
-Requires: 8 Strength~
+アーマークラス: -2
+重量: 15
+必要能力値: 筋力8~
 //@40611
-@770081012 = ~Gond, god of invention and artifice, is a deity rarely worshipped by traditional adventurers.  Some thieves, however, revere Gond for his role in the development of locks, traps, and other complex machines.  One such thief was the burglar Jurmar the Calm, who began his career as a locksmith.  Known for his cool demeanor and steady hand, Jurmar paid priests of Gond to fashion this tool belt for him.  Whenever Jurmar was stuck in a situation where he didn't have the right tool for a job, one of the small pouches on the belt would supply him with what he needed.
+@770081012 = ~発明と技巧の神ゴンドは、伝統的な冒険者にはめったに崇拝されない神である。しかし一部の盗賊は、錠前、罠、その他の複雑な機械の開発におけるゴンドの役割を敬っている。そのような盗賊の一人が、鍵師としてキャリアを始めた盗賊「冷静なジャーマー」だった。冷静な態度と安定した手さばきで知られるジャーマーは、ゴンドの司祭たちに金を払ってこの道具ベルトを作らせた。ジャーマーが仕事に適した道具を持っていない状況に陥ったときはいつでも、ベルトの小さな袋の一つが必要なものを供給してくれた。
 
-Oswald has managed to add even more tools for the belt, further enhancing its usefulness.
+オズワルドはベルトにさらに多くの道具を追加し、その有用性をさらに高めることに成功した。
 
 STATISTICS:
 
-Special: 
-  +15 Open Locks
-  +10 to Find/Remove Traps~
+特殊:
+  開錠 +15
+  罠の発見/解除 +10~
 //@40617
-@770081013 = ~This small shield was created as a gift from the leader of Clan Battlehammer to one of his trusted servants.  The servant, Wurdar Stoutbrew, protected the clan leader's family from being killed and eaten by yeti.  Wurdar wore the shield proudly for ten years before he was killed by orcs in the Spine of the World.  His sacrifice allowed a few key members of the Battlehammer clan to escape to safety.
+@770081013 = ~この小さな盾は、バトルハンマー一族の族長から信頼する従者の一人への贈り物として作られた。その従者ワーダー・スタウトブリューは、族長の家族がイエティに殺されて食べられるのを防いだ。ワーダーはこの盾を誇らしげに10年間身に着けていたが、世界の背骨山脈でオークに殺された。彼の犠牲により、バトルハンマー一族の主要メンバー数名が安全に逃げることができた。
 
-Combined with the icon of Clan Battlehammer, the shield's abilities have been further enhanced.
+バトルハンマー一族の聖印と組み合わせることで、盾の能力がさらに強化された。
 
 STATISTICS:
 
-Armor Class Bonus:  2
-Special: 
- +10 to Max Hit Points
- +1 Strength
- No  Missile Weapon Protection
-Weight:  4~
+アーマークラスボーナス: 2
+特殊:
+ 最大ヒットポイント +10
+ 筋力 +1
+ 遠隔武器防護なし
+重量: 4~
 //@40631
 @770081014 = ~レモラーズの殻の兜~
 //@40632
-@770081015 = ~Crafted from chitinous scales, this heavy helmet retains some of the natural resistances of the remorrhaz from which it was crafted.
+@770081015 = ~キチン質の鱗から作られたこの重い兜は、それが作られた元のレモラーズの自然な抵抗力の一部を保持している。
 
 STATISTICS:
 
-Armor Class Bonus: 1
-Special:
-  +10% to magic resistance
-  +20% to resistance to magic damage
-  Protects Against Critical Hits
-Weight: 10~
+アーマークラスボーナス: 1
+特殊:
+  魔法抵抗力 +10%
+  魔法ダメージ耐性 +20%
+  クリティカルヒットから防護
+重量: 10~
 //@40627
 @770081016 = ~憂鬱~
 //@40628
-@770081017 = ~In 834 DR, a wizard named Legedain the Wiser caught a renowned thief breaking into his tower.  The thief was a cynical burglar named Ilfain Blackfeather.  Legedain was growing old and becoming tired of his frail body.  To remedy the situation, he cast Magic Jar and forced Ilfain's spirit into a host gem.  Legedain then transferred his soul to the young elf's body and left the gem on a shelf nearby.  One hundred years later, Legedain decided to do something with it.  He created a sword for his arrogant bodyguard, Gundak, and transferred Ilfain's spirit from the host gem into the sword.  Ilfain, always highly critical in life, started telepathically criticizing Gundak in combat.  Gundak became annoyed with the sword after two weeks and he threw it into the street.  A series of warriors picked it up and discarded it after short periods of ownership. The constant criticism from the sword also makes it difficult to hit its target. Over time, the weapon has simply come to be known by its current name.
+@770081017 = ~DR834年、賢者レジェデインという名の魔法使いが、塔に侵入した有名な盗賊を捕らえた。その盗賊は皮肉屋の盗賊イルフェイン・ブラックフェザーという名だった。レジェデインは老いて、脆弱な肉体に疲れていた。この状況を改善するため、彼はマジック・ジャーを唱え、イルフェインの精神を宿主の宝石に閉じ込めた。レジェデインは自分の魂を若いエルフの肉体に転送し、宝石を近くの棚に置いた。100年後、レジェデインはそれを何かに使うことにした。彼は傲慢な護衛ガンダックのために剣を作り、イルフェインの精神を宿主の宝石から剣に転送した。生前から常に批判的だったイルフェインは、戦闘中にテレパシーでガンダックを批判し始めた。ガンダックは2週間後に剣に腹を立て、路上に投げ捨てた。その後、一連の戦士たちがそれを拾い、短期間の所有の後に捨てた。剣からの絶え間ない批判は、標的に命中させることも難しくしている。時が経つにつれ、この武器は単にその現在の名前で知られるようになった。
 
-Kieran Nye has applied a permanent Hope spell to the sword. While the sword is still very gloomy, it no longer criticizes its wielder and its thieving abilities can be used more often.
+キーラン・ナイは剣に永続的なホープ呪文を適用した。剣は依然として非常に陰鬱だが、もはや使用者を批判せず、その盗賊能力をより頻繁に使用できるようになった。
 
 STATISTICS:
 
-Damage:  2D4 +4
-THAC0:  +4
-Damage Type: Slashing
-Special:  Find Traps 2/Day, Knock 2/Day
-Weight: 4
-Speed Factor: 5
-Proficiency Type: Large Swords
-Type: 1-handed~
+ダメージ: 2D4 +4
+THAC0: +4
+ダメージタイプ: 斬撃
+特殊: 罠の発見 1日2回、ノック 1日2回
+重量: 4
+速度修正: 5
+習熟タイプ: 大型剣
+タイプ: 片手~
 //@40630
-@770081018 = ~This front of this huge steel shield is decorated with black enameled patterns and a single skull set in the center.  The interior of the shield is etched with encrypted ancient writings.  The only legible words are at the top, and read, "AND WHAT OF THE DEAD?"  The history of the item is completely hidden from divination.
+@770081018 = ~この巨大な鋼鉄の盾の表面は、黒いエナメルの模様と中央に配置された一つの頭蓋骨で装飾されている。盾の内側には暗号化された古代文字が刻まれている。唯一判読可能な言葉は上部にあり、「そして死者はどうなるのか？」と記されている。このアイテムの歴史は占術から完全に隠されている。
 
-Edion has deciphered a bit more of the text, unlocking new abilities of the shield.
+エディオンがテキストをもう少し解読し、盾の新しい能力を解放した。
 
 STATISTICS:
 
-Armor Class Bonus: 4
-Special:
- +1 vs. Missile Weapons
- Bearer is immune to Finger of Death and Power Word: Kill
- Cure Critical Wounds 1/Day, Undead Ward 1/Day
-Weight: 20~
+アーマークラスボーナス: 4
+特殊:
+ 遠隔武器に対して +1
+ 所持者はフィンガー・オブ・デスとパワーワード：キルに対して完全耐性
+ クリティカル・ウーンズ治療 1日1回、アンデッド結界 1日1回
+重量: 20~
 //@40629
-@770081019 = ~It is believed that fae creatures helped create this beautiful sword, and legends say that it was forged in the cool depths of Myrloch, the large lake at the center of Gwynneth in the Moonshaes.  The weapon has an unearthly look to it, and it is believed to be quite old.  The only individual known to have carried the weapon was a half-elven bard named Daen Winterbrush.  It is said by some that after he found the sword, quite by accident, that he was blessed with exceptional creativity and powerful sensitivity to the world around him.  He traveled for forty years and is known for some of the most unique, haunting melodies in Faerun.  It is believed that Daen eventually became too melancholy at the sights of misery and oppression that he encountered in his travels, and that the fae smiths of the Moonshae Isles welcomed him into the breast of Myrloch.
+@770081019 = ~フェイの生物がこの美しい剣の創造を手伝ったと信じられており、伝説によれば、ムーンシェイ諸島のグウィネス中央にある大きな湖ミルロックの冷たい深淵で鍛えられたという。この武器は超自然的な外観を持ち、かなり古いものと信じられている。この武器を持っていたことが知られている唯一の人物は、ダエン・ウィンターブラッシュという名のハーフエルフの吟遊詩人だった。彼が偶然剣を見つけた後、並外れた創造性と周囲の世界に対する強力な感受性に恵まれたと言われている。彼は40年間旅をし、フェイルーンで最もユニークで心を揺さぶる旋律のいくつかで知られている。ダエンは旅で遭遇した悲惨さと抑圧の光景にやがて過度に憂鬱になり、ムーンシェイ諸島のフェイの鍛冶師たちがミルロックの懐に彼を迎え入れたと信じられている。
 
-By singing the ballad of Daen Winterbrush and speaking with his spirit, more abilities of the blade have been awakened.
+ダエン・ウィンターブラッシュのバラードを歌い、彼の精霊と語ることで、刃のより多くの能力が目覚めた。
 
 STATISTICS:
 
-Damage:  1D8 +3
-THAC0:  +3
-Special:  
-  +30 to Lore skill while equipped
-  +1 Charisma while equipped
-Damage Type:  Slashing
-Weight:  4
-Speed Factor:  4
-Proficiency Type:  Large Swords
-Type:  1-handed~
+ダメージ: 1D8 +3
+THAC0: +3
+特殊:
+  装備時に知識スキル +30
+  装備時に魅力 +1
+ダメージタイプ: 斬撃
+重量: 4
+速度修正: 4
+習熟タイプ: 大型剣
+タイプ: 片手~
 //@40640
-@770081020 = ~This axe was crafted for a powerful young barbarian warrior named Hegelfden.  He was born into the Tribe of the Elk and the shamans prophesized that he would be a powerful warrior.  Hegelfden grew up believing that he was special, important, and somehow better than those around him.  By the age of seventeen, Hegelfden was an accomplished warrior.  Huge, fast, and cunning, he was more than a match for his kinsmen.  On a journey into the Spine of the World, Hegelfden captured two dwarves that he came across in a cave.  He refused to let the two workers go until they created a magnificent axe for him.  The two dwarves reluctantly agreed, creating a stout battle axe with a keen blade and a thick handle.  When the dwarves asked to be released, Hegelfden denied their request.  He wanted to keep them as servants.  The dwarves then laid a curse upon Hegelfden.  They told him that the fruit of his abuse would be the end of him.  Hegelfden laughed at the dwarves' claim and continued on with his life.  The next day, in a battle with a rival tribe, Hegelfden went berserk with blood lust, slaying every creature he came across.  His kin, convinced that he had gone mad, cut him down where he stood.  The axe was left on the field when the warriors brought Hegelfden's body back to the camp.  When they arrived, the dwarves were nowhere to be found.
+@770081020 = ~この斧は、ヘゲルフデンという名の強力な若き野蛮人戦士のために作られた。彼はエルク族に生まれ、シャーマンたちは彼が強力な戦士になると予言した。ヘゲルフデンは自分が特別で重要であり、周囲の者たちよりも何らかの形で優れていると信じて育った。17歳までに、ヘゲルフデンは熟練の戦士となった。巨大で、素早く、狡猾な彼は、同族の者たちを遥かに凌駕していた。世界の背骨山脈への旅の途中、ヘゲルフデンは洞窟で出会った2人のドワーフを捕らえた。彼は2人の労働者に壮麗な斧を作らせるまで解放することを拒否した。2人のドワーフは渋々同意し、鋭い刃と太い柄を持つ頑丈な戦斧を作った。ドワーフたちが解放を求めたとき、ヘゲルフデンは要求を拒否した。彼らを召使いとして留めておきたかったのだ。そこでドワーフたちはヘゲルフデンに呪いをかけた。彼らは彼に、虐待の果実が彼の終わりになると告げた。ヘゲルフデンはドワーフたちの主張を笑い飛ばし、人生を続けた。翌日、敵対する部族との戦いで、ヘゲルフデンは血の渇望で狂戦士と化し、出会ったすべての生物を殺した。彼が狂ったと確信した彼の一族は、その場で彼を討ち取った。戦士たちがヘゲルフデンの遺体を陣営に持ち帰ったとき、斧は野原に残されていた。彼らが到着したとき、ドワーフたちはどこにも見当たらなかった。
 
-With Tiernon's guidance, the angry dwarven souls in the axe have been laid to rest.
+ティアノンの導きにより、斧の中の怒れるドワーフの魂は安らぎを得た。
 
 STATISTICS:
 
-Damage:  1D8 +5
-THAC0:  +5
-Damage Type: Slashing
-Weight: 6
-Speed Factor: 3
-Proficiency Type: Axe
-Type:  1-handed~
+ダメージ: 1D8 +5
+THAC0: +5
+ダメージタイプ: 斬撃
+重量: 6
+速度修正: 3
+習熟タイプ: 斧
+タイプ: 片手~
 //@40639
-@770081021 = ~Not much is known about the owner of this weapon, save that sages believe it is from another world, called "Eibrancha."  Plane-traveling wizards who have investigated life on "Eibrancha" report that it is dull, commonplace, and ordinary in the extreme, a place where heroes are rare and the populace is, by and large, incredibly average.  This might explain the virtually non-existent body of recorded information about the place.  The only thing known about the weapon's owner is that he was an educated man. The purple wood that the crossbow is constructed from is believed to be from a unique type of tree in Eibrancha.
+@770081021 = ~この武器の所有者についてはほとんど知られていないが、賢者たちは「エイブランチャ」と呼ばれる別の世界から来たものと信じている。「エイブランチャ」の生活を調査した次元渡りの魔法使いたちは、そこが極めて退屈で平凡で普通の場所であり、英雄がまれで住民が概して信じられないほど平均的な場所だと報告している。これが、その場所に関する記録情報がほぼ存在しない理由を説明しているかもしれない。武器の所有者について知られている唯一のことは、彼が教育を受けた男性だったということだ。クロスボウが構築されている紫色の木は、エイブランチャの独特な種類の木から来ていると信じられている。
 
-After contacting another plane and learning about Bren Muller, you have learned a new ability of the weapon. Once per day, it can dramatically increase accuracy for two rounds.
+別の次元に接触し、ブレン・ミュラーについて学んだ後、あなたは武器の新しい能力を学んだ。1日に1回、2ラウンドの間、劇的に精度を向上させることができる。
 
 STATISTICS:
 
-Once per day can increase bow's aim to an additional +5 to hit for two rounds
+1日1回、2ラウンドの間、弓の精度を追加の+5命中にすることができる
 
-Damage: +2
-THAC0: +5 bonus
-Weight: 7
-Speed Factor:  4
-Proficiency Type:  Crossbow
-Type:  2-handed~
+ダメージ: +2
+THAC0: +5ボーナス
+重量: 7
+速度修正: 4
+習熟タイプ: クロスボウ
+タイプ: 両手~
 @770081022 = ~ジニーのボトルの説明~
 //@40633
 @770081023 = ~レモラーズの殻~
 //@6146
 @770081024 = ~エルヴンチェインメイル~
 //@39560
-@770081025 = ~The delicate yet sturdy craftsmanship of the Elven races allows them to design many beautiful yet utilitarian goods.  Among these is Elven chain mail, which is so finely wrought that it can be worn under normal clothing without revealing its presence.  This and its lightness allows it to be worn by thieves and fighter/mages with few restrictions.
+@770081025 = ~エルフ種族の繊細ながら頑丈な職人技により、彼らは美しくも実用的な多くの品を設計することができる。その中にエルヴン・チェインメイルがあり、非常に精巧に作られているため、通常の衣服の下に着用してもその存在を明かすことがない。この特性とその軽さにより、盗賊や戦士／メイジがほとんど制限なく着用できる。
 
 STATISTICS:
 
-Armor Class: 5
-Weight: 7
-Requires: 5 Strength~
+アーマークラス: 5
+重量: 7
+必要能力値: 筋力5~
 @770081026 = ~ブーメラン・ダガー+1~
-@770081027 = ~Fullen Woolspinner, an ambitious halfling from a well to do family, left his home to spend several years adventuring.  During his travels he ended up staying with a family of dwarven weaponsmiths.  Much impressed by their throwing axes, which always returned to the hands of their wielder, Fullen sought to make a dagger that could do the same.  With the help of his dwarven friends he succeeded, creating several of the famous Fullen Boomerang daggers.
+@770081027 = ~裕福な家庭出身の野心的なハーフリング、フレン・ウールスピナーは、数年間の冒険に出るために家を出た。旅の途中、彼はドワーフの武器鍛冶の一家に滞在することになった。常に使用者の手に戻ってくる投擲斧に大いに感銘を受けたフレンは、同じことができる短剣を作ろうとした。ドワーフの友人たちの助けを借りて、彼は成功し、有名なフレン・ブーメラン短剣をいくつか作り出した。
 
 STATISTICS:
 
-Combat Abilities: dagger returns to the thrower
-THAC0:  +1 bonus
-Damage:  2d4 +1
-Damage type:  missile (piercing)
-Weight: 1
-Speed Factor: 1
-Proficiency Type: Dagger
-Type:  1-handed
-Requires: 3 Strength~
+戦闘能力: 短剣は投擲者に戻ってくる
+THAC0: +1ボーナス
+ダメージ: 2d4 +1
+ダメージタイプ: 遠隔（刺突）
+重量: 1
+速度修正: 1
+習熟タイプ: ダガー
+タイプ: 片手
+必要能力値: 筋力3~
 @770081028 = ~リターニング・ダート+2~
-@770081029 = ~The small size of this weapon belies its great power.  Immediately after striking its target, this dart reappears in the hand of the wielder, ready to be hurled again.
+@770081029 = ~この武器の小さなサイズはその偉大な力を偽っている。標的を打った直後に、このダーツは使用者の手に再び現れ、再び投げる準備ができている。
 
 STATISTICS:
 
-Dart returns instantly to user's hand after being thrown.
+ダーツは投げられた後、即座に使用者の手に戻る。
 
-THAC0: +2 bonus
-Damage:  1d3 +2
-Damage type:  missile (piercing)
-Weight: 0
-Speed Factor: 0
-Proficiency Type: Dart
-Type:  1-handed~
+THAC0: +2ボーナス
+ダメージ: 1d3 +2
+ダメージタイプ: 遠隔（刺突）
+重量: 0
+速度修正: 0
+習熟タイプ: ダート
+タイプ: 片手~
 //@40634
 @770081030 = ~これは死んだレモラーズの甲殻の一部である。その天然の鎧は回復力と自然耐性で知られている。~
 //@40620
 @770081031 = ~冬狼のクローク~
 //@40621
-@770081032 = ~This beautiful fur cloak is made from the pelts of winter wolves. The cloak was sewn by the local seamstress in Kuldahar, and it retains some of the natural resistances inherent to the wolves thanks to Orrick's enchantments.
+@770081032 = ~この美しい毛皮のクロークは、冬狼の毛皮から作られている。クロークはカルダハールの地元の裁縫師によって縫われ、オリックの魔法のおかげで、狼に固有の自然な抵抗力の一部を保持している。
 
 STATISTICS:
 
-Armor Class Bonus: +1 vs. Crushing
-Special:
-  +10% Cold Resistance
-  Immune to Winter Wolf Breath Attack
-Weight:  1~
+アーマークラスボーナス: 打撃に対して +1
+特殊:
+  冷気耐性 +10%
+  冬狼のブレス攻撃に対して完全耐性
+重量: 1~
 //@40613
 @770081033 = ~ミスリルハンマー~
 //@40614
@@ -808,26 +808,26 @@ Weight:  1~
 //@40615
 @770081035 = ~この小さなミスリルハンマーは、儀式用ではあるが、精巧に作られたアイテムのようだ。触ると少し温かい。~
 //@40616
-@770081036 = ~This small mithril hammer is slightly warm to the touch. It is a symbol for Clan Battlehammer, a clan of dwarves currently lead by the eighth king Bruenor Battlehammer. The clan had always been led by his ancestors and passed on from generation to generation.
+@770081036 = ~この小さなミスリルハンマーは触ると少し温かい。これはバトルハンマー一族の象徴であり、現在第8代王ブルーノー・バトルハンマーによって率いられているドワーフの一族である。一族は常に彼の祖先によって率いられ、代々受け継がれてきた。
 
-Originally the clan resided in Mithril Hall but when they were forced out they moved to the northern regions of Icewind Dale near Ten Towns where they set up a new home providing equipment for the towns.~
+元々一族はミスリルホールに住んでいたが、追い出されたとき、彼らはアイスウィンド・デールの北部地域のテン・タウンズ近くに移動し、町に装備を提供する新しい家を設立した。~
 //@40618
 @770081037 = ~ノームの道具~
 //@40619
 @770081038 = ~この使い古された木箱には、小さな道具、金属片、そしてアナティダエ科ベースの接着剤が入っている。~
 //@21489
-@770081039 = ~In 834 DR, a wizard named Legedain the Wiser caught a renowned thief breaking into his tower.  The thief was a cynical burglar named Ilfain Blackfeather.  Legedain was growing old and becoming tired of his frail body.  To remedy the situation, he cast Magic Jar and forced Ilfain's spirit into a host gem.  Legedain then transferred his soul to the young elf's body and left the gem on a shelf nearby.  One hundred years later, Legedain decided to do something with it.  He created a sword for his arrogant bodyguard, Gundak, and transferred Ilfain's spirit from the host gem into the sword.  Ilfain, always highly critical in life, started telepathically criticizing Gundak in combat.  Gundak became annoyed with the sword after two weeks and he threw it into the street.  A series of warriors picked it up and discarded it after short periods of ownership. The constant criticism from the sword also makes it difficult to hit its target. Over time, the weapon has simply come to be known by its current name.
+@770081039 = ~DR834年、賢者レジェデインという名の魔法使いが、塔に侵入した有名な盗賊を捕らえた。その盗賊は皮肉屋の盗賊イルフェイン・ブラックフェザーという名だった。レジェデインは老いて、脆弱な肉体に疲れていた。この状況を改善するため、彼はマジック・ジャーを唱え、イルフェインの精神を宿主の宝石に閉じ込めた。レジェデインは自分の魂を若いエルフの肉体に転送し、宝石を近くの棚に置いた。100年後、レジェデインはそれを何かに使うことにした。彼は傲慢な護衛ガンダックのために剣を作り、イルフェインの精神を宿主の宝石から剣に転送した。生前から常に批判的だったイルフェインは、戦闘中にテレパシーでガンダックを批判し始めた。ガンダックは2週間後に剣に腹を立て、路上に投げ捨てた。その後、一連の戦士たちがそれを拾い、短期間の所有の後に捨てた。剣からの絶え間ない批判は、標的に命中させることも難しくしている。時が経つにつれ、この武器は単にその現在の名前で知られるようになった。
 
 STATISTICS:
 
-Damage:  2D4 +4
-THAC0:  +2
-Damage Type: Slashing
-Special:  Find Traps 1/Day, Knock 1/Day
-Weight: 4
-Speed Factor: 5
-Proficiency Type: Large Swords
-Type: 1-handed~
+ダメージ: 2D4 +4
+THAC0: +2
+ダメージタイプ: 斬撃
+特殊: 罠の発見 1日1回、ノック 1日1回
+重量: 4
+速度修正: 5
+習熟タイプ: 大型剣
+タイプ: 片手~
 //@40641
 @770081040 = ~エディオンへの書状~
 //@60642
